@@ -3,6 +3,8 @@ description: Example description
 coverimage: /images/cover.jpg
 markdown: redcarpet
 timezone: Europe/Amsterdam
+url: https://esstudio.site
+enforce_ssl: esstudio.site
 defaults:
 - scope:
     path: ''
