@@ -33,6 +33,11 @@ twitter_username: test
 youtube_username: 
 googleplus_username: 
 keywords: keyword1, keyword2, keyword3
+collections:
+  uploads:
+    title: Uploads
+    output: true
+    permalink: "uploads/:path"
 exclude:
 - vendor
 rss: true
