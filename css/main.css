@@ -289,3 +289,36 @@ a:hover {
   font-size: 0.95em;
   color: #777;
 }
+
+.colophon .social-media-list li {
+  float: left;
+  margin-left: 25px;
+}
+.colophon .social-media-list li:first-of-type {
+  list-style: none;
+  margin-left: 5px;
+}
+
+.colophon .social-media-list {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+#footer-links .social-media-list li {
+  display: inline;
+}
+
+#footer-links .social-media-list li::before {
+  content: "\2022 ";
+  margin-right: 2px;
+}
+
+#footer-links .social-media-list li:first-of-type::before {
+  content: none;
+}
+
+#pub-date, #social {
+  display: inline-block;
+}
+
+

@@ -1,3 +1,65 @@
-name: Flex
+title: Example title
+description: Example description
+coverimage: /images/cover.jpg
 markdown: redcarpet
+timezone: Europe/Amsterdam
+defaults:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    coverimage: ''
 pygments: true
+dribbble_username:
+facebook_username: test
+flickr_username:
+github_username: test
+instagram_username:
+linkedin_username:
+pinterest_username:
+twitter_username: test
+youtube_username:
+googleplus_username: 
+keywords: keyword1, keyword2, keyword3 
+exclude:
+- vendor
+description: Web, app and tooling development and graphic design studio. View all
+  websites made by Echo Sierra Studio and contact us if your interested.
+theme_color: "#fb5353"
+baseurl: 
+rss: true
+facebook:
+  app_id: 
+  publisher: 
+  admins: 
+webmaster_verifications:
+  google: 
+  bing: 
+  alexa: 
+  yandex: 
+  baidu: 
+twitter:
+  username: 
+markdown: kramdown
+sass:
+  style: compressed
+  sass_dir: _sass
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+author: Sem Postma
+designer: Eva van der Weide
+lang: en
+humanstxt_author:
+  name: Sem Postma
+  from: Oosterhout, Noord Brabant, The Netherlands
+  role: Developer
+  email: sem.postma@gmail.com
+humanstxt_designer:
+  name: Eva van der Weide
+  from: Oosterhout, Noord Brabant, The Netherlands
+  role: Designer
+  email: ezaa@live.nl
+google_analytics: 
