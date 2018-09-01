@@ -1,6 +1,7 @@
 ---
 title: Madison Montgomery
 date: 2018-09-01 18:02:00 +02:00
+cover_image: "/uploads/extra2.jpg"
 ---
 
 **Madison Montgomery**
