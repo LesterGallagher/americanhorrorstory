@@ -14,10 +14,10 @@ defaults:
     type: posts
   values:
     layout: post
-    coverimage: ''
+    cover_image: ''
 description: Web, app and tooling development and graphic design studio. View all
   websites made by Echo Sierra Studio and contact us if your interested.
-coverimage: "/images/cover.jpg"
+cover_image: "/images/cover.jpg"
 markdown: kramdown
 url: https://esstudio.site
 enforce_ssl: esstudio.site

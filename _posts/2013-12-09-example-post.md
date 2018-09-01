@@ -4,7 +4,7 @@ date: 2013-12-09 13:00:00 +01:00
 categories:
 - posts
 layout: post
-coverimage: cover.jpg
+cover_image: cover.jpg
 ---
 
 ## Introducing Flex, a Jekyll theme
