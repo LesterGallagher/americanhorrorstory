@@ -28,7 +28,6 @@ exclude:
 - vendor
 description: Web, app and tooling development and graphic design studio. View all
   websites made by Echo Sierra Studio and contact us if your interested.
-theme_color: "#fb5353"
 baseurl: 
 rss: true
 facebook:
