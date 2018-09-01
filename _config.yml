@@ -1,10 +1,13 @@
+---
 title: Example title
-description: Example description
-coverimage: /images/cover.jpg
-markdown: redcarpet
 timezone: Europe/Amsterdam
-url: https://esstudio.site
-enforce_ssl: esstudio.site
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 defaults:
 - scope:
     path: ''
@@ -12,22 +15,26 @@ defaults:
   values:
     layout: post
     coverimage: ''
-pygments: true
-dribbble_username:
-facebook_username: test
-flickr_username:
-github_username: test
-instagram_username:
-linkedin_username:
-pinterest_username:
-twitter_username: test
-youtube_username:
-googleplus_username: 
-keywords: keyword1, keyword2, keyword3 
-exclude:
-- vendor
 description: Web, app and tooling development and graphic design studio. View all
   websites made by Echo Sierra Studio and contact us if your interested.
+coverimage: "/images/cover.jpg"
+markdown: kramdown
+url: https://esstudio.site
+enforce_ssl: esstudio.site
+pygments: true
+dribbble_username: 
+facebook_username: test
+flickr_username: 
+github_username: test
+instagram_username: 
+linkedin_username: 
+pinterest_username: 
+twitter_username: test
+youtube_username: 
+googleplus_username: 
+keywords: keyword1, keyword2, keyword3
+exclude:
+- vendor
 theme_color: "#fb5353"
 baseurl: 
 rss: true
@@ -43,14 +50,13 @@ webmaster_verifications:
   baidu: 
 twitter:
   username: 
-markdown: kramdown
 sass:
   style: compressed
   sass_dir: _sass
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-seo-tag
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
 author: Sem Postma
 designer: Eva van der Weide
 lang: en

@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Example post
+date: 2013-12-09 13:00:00 +01:00
+categories:
+- posts
+layout: post
 coverimage: cover.jpg
-date: 2013-12-09 12:00:00
-categories: posts
 ---
 
 ## Introducing Flex, a Jekyll theme
