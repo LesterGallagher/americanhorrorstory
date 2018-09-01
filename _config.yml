@@ -35,7 +35,7 @@ googleplus_username:
 keywords: keyword1, keyword2, keyword3
 exclude:
 - vendor
-baseurl: 
+baseurl: americanhorrorstory
 rss: true
 facebook:
   app_id: 
