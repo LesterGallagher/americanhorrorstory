@@ -48,4 +48,4 @@ If you want to recreate some of Madison Montgomery’s style then you can keep t
 
 Here are some links to clothing items:
 
-[Dress](http://https://nl.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
+[Dress](http://nl.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
