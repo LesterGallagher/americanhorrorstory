@@ -1,6 +1,7 @@
 ---
 title: Madison Montgomery
 date: 2018-09-01 18:02:00 +02:00
+Field name: 
 ---
 
 An inspiration style guide to American Horror Story: Coven
@@ -48,4 +49,12 @@ If you want to recreate some of Madison Montgomery’s style then you can keep t
 
 Here are some links to clothing items:
 
-[Dress](http://nl.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
+Puff Sleeve Skater Dress - Boohoo
+
+Open Shoulder Crochet Dress - Boohoo
+
+Ruffle Knit Dress - Revolve
+
+Button-Front Dress - Urban Outfitters
+
+Emilia Dress - Revolve
