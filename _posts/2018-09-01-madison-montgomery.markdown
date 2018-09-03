@@ -49,6 +49,8 @@ If you want to recreate some of Madison Montgomery’s style then you can keep t
 
 Here are some links to clothing items:
 
+**Dresses:**
+
 Puff Sleeve Skater Dress - Boohoo
 
 Open Shoulder Crochet Dress - Boohoo
@@ -58,3 +60,47 @@ Ruffle Knit Dress - Revolve
 Button-Front Dress - Urban Outfitters
 
 Emilia Dress - Revolve
+
+**Tops:**
+
+Lace Mock-Neck Top - Urban Outfitters
+
+Glossy Short-sleeved Blouse - Monki
+
+**Skirts:**
+
+Mirror Work Skirt - Topshop
+
+High-Rise Leather Mini Skirt - Urban Outfitters
+
+**Coats:**
+
+Faux Fur Coat - Topshop
+
+Oversized Collar Faux Fur Coat - Boohoo
+
+Longline Tailored Crepe Cape - Boohoo
+
+**Shoes:**
+
+Pointed Toe Sock Boots - Boohoo
+
+Stretch Over Knee Cleated Boots - Boohoo
+
+**Accessories:**
+
+Leather Look Beret Hat - Topshop
+
+Sequin Beret - Topshop
+
+Over The Knee Socks - Boohoo
+
+Sparkly Glitter Scrunchie - Boohoo
+
+Double Layer Head Chain - Boohoo
+
+Twist Hair Knot Headband - Boohoo
+
+Metal Plate Waist Belt - Boohoo
+
+Tipped Western Belt - Boohoo
