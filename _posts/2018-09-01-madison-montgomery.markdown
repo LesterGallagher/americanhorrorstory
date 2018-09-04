@@ -85,22 +85,22 @@ Here are some links to clothing items:
 
 [Pointed Toe Sock Boots - Boohoo](https://nl.boohoo.com/pointed-toe-sock-boots/DZZ33686.html)
 
-Stretch Over Knee Cleated Boots - Boohoo
+[Stretch Over Knee Cleated Boots - Boohoo](https://nl.boohoo.com/stretch-over-knee-cleated-boots/DZZ97820.html)
 
 **Accessories:**
 
-Leather Look Beret Hat - Topshop
+[Leather Look Beret Hat - Topshop](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/leather-look-beret-hat-7815408)
 
-Sequin Beret - Topshop
+[Sequin Beret - Topshop](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/sequin-beret-7738268)
 
-Over The Knee Socks - Boohoo
+[Double Layer Head Chain - Boohoo](https://nl.boohoo.com/diamante-double-layer-head-chain/DZZ18949.html)
 
-Sparkly Glitter Scrunchie - Boohoo
+[Twist Hair Knot Headband - Boohoo](https://nl.boohoo.com/jersey-twist-knot-headband/DZZ25027.html?color=394)
 
-Double Layer Head Chain - Boohoo
+[Metal Plate Waist Belt - Boohoo](https://nl.boohoo.com/textured-metal-plate-waist-belt/AZZ16035.html)
 
-Twist Hair Knot Headband - Boohoo
+[Tipped Western Belt - Boohoo](https://nl.boohoo.com/filigree-buckle-metal-tipped-western-belt/DZZ21534.html)
 
-Metal Plate Waist Belt - Boohoo
+[Over-the-knee Socks - Boohoo](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
 
-Tipped Western Belt - Boohoo
+[Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
