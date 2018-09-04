@@ -1,5 +1,5 @@
 ---
-title: 'An inspiration style guide to American Horror Story: Coven'
+title: 'An inspiration style guide to American Horror Story: Coven - Madison'
 date: 2018-09-01 18:02:00 +02:00
 Field name: 
 ---
