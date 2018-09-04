@@ -37,7 +37,28 @@ If you want to recreate some of Zoe Benson’s style then you can keep these thi
 
 Here are some links to clothing items:
 
+**Dresses & Jumpsuit**
 
+Belted Faux Leather Jumpsuit
+Lace-Trim Slip Midi Dress
+T-shirt Dress
+Ruffle Midi Slip Dress
+
+**Blouses & sweaters**
+Mock Neck Top
+Split Side Maxi Kimono
+Ruffle Front Sleeve Dress
+Cardigan
+Sweater
+Button-up Shirt
+
+**Shoes**
+Chelsea Ankle Boots
+Chelsea Chain Trim Boots
+
+**Hats**
+Round Felt Hat
+Ribbon Trim Floppy Hat
 
 
 
