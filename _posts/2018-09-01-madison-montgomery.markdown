@@ -51,13 +51,13 @@ Here are some links to clothing items:
 
 **Dresses:**
 
-Puff Sleeve Skater Dress - Boohoo
+[Puff Sleeve Skater Dress - Boohoo](https://us.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
 
-Open Shoulder Crochet Dress - Boohoo
+[Open Shoulder Crochet Dress - Boohoo](https://nl.boohoo.com/plus-open-shoulder-crochet-dress/PZZ81043.html?color=105)
 
-Ruffle Knit Dress - Revolve
+[Ruffle Knit Dress - Revolve](https://www.revolve.com/ronny-kobo-bethanny-ruffle-pointelle-knit-dress/dp/RONR-WD307/?d=Womens&page=2&lc=14&itrownum=5&itcurrpage=2&itview=01&plpSrc=%2Fr%2FBrands.jsp%3F%26aliasURL%3Ddresses-maxi%252Fbr%252F8f972f%26s%3Dc%26c%3DDresses%26sc%3DMaxi%26pageNum%3D2%26color%255B%255D%3Dblack%26pageNum%3D2%26color%255B%255D%3Dblack%26sortBy%3Dfeatured)
 
-Button-Front Dress - Urban Outfitters
+[Button-Front Dress - Urban Outfitters](https://www.urbanoutfitters.com/shop/lioness-american-sweetheart-plunging-button-front-dress?category=dresses&color=001)
 
 Emilia Dress - Revolve
 
