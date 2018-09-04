@@ -1,12 +1,10 @@
 ---
-title: Madison Montgomery
+title: 'An inspiration style guide to American Horror Story: Coven'
 date: 2018-09-01 18:02:00 +02:00
 Field name: 
 ---
 
-# **An inspiration style guide to American Horror Story: Coven**
-
-**Madison Montgomery**
+****Madison Montgomery****
 
 If you’ve seen the third season of Ryan Murphy’s American Horror Story (“Coven”) you’ll know there’s a thin line between loving and hating the character Madison Montgomery (played by Emma Roberts). We all have the love and hate relationship with Emma Roberts’ perfected bitchfaces and incredible hair-flips and that’s what makes this character so memorable.
 
