@@ -19,8 +19,25 @@ As you can see, she has a relative simple casual style with simple sweaters. She
 **Darker Zoe**
 You can see Zoe wearing a lot of black and white blouses. She dresses more classic than most characters in the show. But she still gives it her own touch, like the dungarees for example. Something to keep in mind when you think about her style is the difference in mesh/transparent fabrics and black leather.
 
+had to include this iconic dress which is so cool looking. The waist belt, the sleeves, the hat just wow.
+
 **Inspiration Looks**
 In the first episode we see Zoe wearing this midi-length dress with little ankle boots. She combines this with her black hat. In this outfit you can see the mesh detail on the front, which Zoe wears a lot.
 
+If you want to recreate some of Zoe Benson’s style then you can keep these things in mind:
 
-I had to include this iconic dress which is so cool looking. The waist belt, the sleeves, the hat just wow.
+-	Try to combine a black hat with your outfit
+-	Keep it simple with your hairstyle
+-	Wear midi-length dresses 
+-	Blouses are always good 
+-	Wear ankle boots to give it a Zoe vibe
+-	Wear a lot of black
+
+
+
+Here are some links to clothing items:
+
+
+
+
+
