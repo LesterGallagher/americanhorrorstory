@@ -29,15 +29,10 @@ The whole witch cast of season three can be seen wearing a lot of black/dark col
 If you want to recreate some of Madison Montgomery’s style then you can keep these things in mind:
 
 * Try to keep the skirts short
-
 * Keep the jewelry simple, don't over do it
-
 * Try to show off your legs
-
 * If you want to wear a coat, make sure it's a fur coat
-
 * Hair accessories are important.
-
 * And most importantly: put on some high shoes or socks
 
 Here are some links to clothing items:
@@ -45,55 +40,39 @@ Here are some links to clothing items:
 **Dresses:**
 
 [Puff Sleeve Skater Dress - Boohoo](https://us.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
-
 [Open Shoulder Crochet Dress - Boohoo](https://nl.boohoo.com/plus-open-shoulder-crochet-dress/PZZ81043.html?color=105)
-
 [Ruffle Knit Dress - Revolve](https://www.revolve.com/ronny-kobo-bethanny-ruffle-pointelle-knit-dress/dp/RONR-WD307/?d=Womens&page=2&lc=14&itrownum=5&itcurrpage=2&itview=01)
-
 [Button-Front Dress - Urban Outfitters](https://www.urbanoutfitters.com/shop/lioness-american-sweetheart-plunging-button-front-dress?category=dresses&color=001)
-
 [Emilia Dress - Revolve](https://www.revolve.com/sabina-musayev-emilia-dress/dp/SBNA-WD5/?d=Womens&page=2&lc=5&itrownum=2&itcurrpage=2&itview=01)
 
 **Tops:**
 
 [Lace Mock-Neck Top - Urban Outfitters](https://www.urbanoutfitters.com/shop/uo-bella-lace-mock-neck-top?category=womens-tops&color=001)
-
 [Glossy Short-sleeved Blouse - Monki](https://www.monki.com/en_eur/clothing/tops/shirts-and-blouses/product.glossy-short-sleeved-blouse-black-magic.0684913001.html)
 
 **Skirts:**
 
 [Mirror Work Skirt - Topshop](http://eu.topshop.com/en/tseu/product/clothing-485092/skirts-485114/cast-no-shadow-mirror-work-skirt-by-wyldr-7405524)
-
 [High-Rise Leather Mini Skirt - Urban Outfitters](https://www.urbanoutfitters.com/shop/vintage-high-rise-leather-mini-skirt?category=skirts&color=001)
 
 **Coats:**
 
 [Faux Fur Coat - Topshop](http://eu.topshop.com/en/tseu/product/clothing-485092/jackets-coats-2390890/tall-faux-fur-coat-7879416)
-
 [Oversized Collar Faux Fur Coat - Boohoo](https://nl.boohoo.com/jasmine-boutique-oversized-collar-faux-fur-coat/DZZ49835.html)
-
 [Longline Tailored Crepe Cape - Boohoo](https://nl.boohoo.com/longline-tailored-crepe-cape/DZZ77562.html?color=105)
 
 **Shoes:**
 
 [Pointed Toe Sock Boots - Boohoo](https://nl.boohoo.com/pointed-toe-sock-boots/DZZ33686.html)
-
 [Stretch Over Knee Cleated Boots - Boohoo](https://nl.boohoo.com/stretch-over-knee-cleated-boots/DZZ97820.html)
 
 **Accessories:**
 
 [Leather Look Beret Hat - Topshop](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/leather-look-beret-hat-7815408)
-
 [Sequin Beret - Topshop](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/sequin-beret-7738268)
-
 [Double Layer Head Chain - Boohoo](https://nl.boohoo.com/diamante-double-layer-head-chain/DZZ18949.html)
-
 [Twist Hair Knot Headband - Boohoo](https://nl.boohoo.com/jersey-twist-knot-headband/DZZ25027.html?color=394)
-
 [Metal Plate Waist Belt - Boohoo](https://nl.boohoo.com/textured-metal-plate-waist-belt/AZZ16035.html)
-
 [Tipped Western Belt - Boohoo](https://nl.boohoo.com/filigree-buckle-metal-tipped-western-belt/DZZ21534.html)
-
 [Over-the-knee Socks - Boohoo](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
-
 [Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
