@@ -63,27 +63,27 @@ Here are some links to clothing items:
 
 **Tops:**
 
-Lace Mock-Neck Top - Urban Outfitters
+[Lace Mock-Neck Top - Urban Outfitters](https://www.urbanoutfitters.com/shop/uo-bella-lace-mock-neck-top?category=womens-tops&color=001)
 
-Glossy Short-sleeved Blouse - Monki
+[Glossy Short-sleeved Blouse - Monki](https://www.monki.com/en_eur/clothing/tops/shirts-and-blouses/product.glossy-short-sleeved-blouse-black-magic.0684913001.html)
 
 **Skirts:**
 
-Mirror Work Skirt - Topshop
+[Mirror Work Skirt - Topshop](http://eu.topshop.com/en/tseu/product/clothing-485092/skirts-485114/cast-no-shadow-mirror-work-skirt-by-wyldr-7405524)
 
-High-Rise Leather Mini Skirt - Urban Outfitters
+[High-Rise Leather Mini Skirt - Urban Outfitters](https://www.urbanoutfitters.com/shop/vintage-high-rise-leather-mini-skirt?category=skirts&color=001)
 
 **Coats:**
 
-Faux Fur Coat - Topshop
+[Faux Fur Coat - Topshop](http://eu.topshop.com/en/tseu/product/clothing-485092/jackets-coats-2390890/tall-faux-fur-coat-7879416)
 
-Oversized Collar Faux Fur Coat - Boohoo
+[Oversized Collar Faux Fur Coat - Boohoo](https://nl.boohoo.com/jasmine-boutique-oversized-collar-faux-fur-coat/DZZ49835.html)
 
-Longline Tailored Crepe Cape - Boohoo
+[Longline Tailored Crepe Cape - Boohoo](https://nl.boohoo.com/longline-tailored-crepe-cape/DZZ77562.html?color=105)
 
 **Shoes:**
 
-Pointed Toe Sock Boots - Boohoo
+[Pointed Toe Sock Boots - Boohoo](https://nl.boohoo.com/pointed-toe-sock-boots/DZZ33686.html)
 
 Stretch Over Knee Cleated Boots - Boohoo
 
