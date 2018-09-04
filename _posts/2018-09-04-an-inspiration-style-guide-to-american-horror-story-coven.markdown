@@ -39,26 +39,26 @@ Here are some links to clothing items:
 
 **Dresses & Jumpsuit**
 
-Belted Faux Leather Jumpsuit
-Lace-Trim Slip Midi Dress
-T-shirt Dress
-Ruffle Midi Slip Dress
+[Belted Faux Leather Jumpsuit](https://www.urbanoutfitters.com/shop/dahli-tatum-belted-faux-leather-jumpsuit?category=dresses&color=001)
+[Lace-Trim Slip Midi Dress](https://www.urbanoutfitters.com/shop/uo-lace-trim-slip-midi-dress?category=dresses&color=009)
+[T-shirt Dress](https://www.monki.com/en_eur/clothing/dresses/product.soft-t-shirt-dress-black-magic.0647687001.html)
+[Ruffle Midi Slip Dress](http://eu.topshop.com/en/tseu/product/clothing-485092/dresses-485107/ruffle-midi-slip-dress-7900865)
 
 **Blouses & sweaters**
-Mock Neck Top
-Split Side Maxi Kimono
-Ruffle Front Sleeve Dress
-Cardigan
-Sweater
-Button-up Shirt
+[Mock Neck Top](https://www.urbanoutfitters.com/shop/uo-maggie-mock-neck-top?category=womens-tops&color=010)
+[Split Side Maxi Kimono](https://nl.boohoo.com/split-side-maxi-kimono/DZZ14568.html?color=105)
+[Ruffle Front Sleeve Dress](https://nl.boohoo.com/-ruffle-front-full-sleeve-blouse/DZZ24285.html?color=105)
+[Cardigan](https://www.urbanoutfitters.com/shop/uo-blake-cardigan?category=sweaters-cardigans-for-women&color=006)
+[Sweater](https://nl.boohoo.com/plus-roll-neck-tipped-tie-sleeve-jumper/PZZ83638.html)
+[Button-up Shirt](https://www.monki.com/en_eur/clothing/tops/shirts-and-blouses/product.classic-button-up-shirt-white-light.0628346034.html)
 
 **Shoes**
-Chelsea Ankle Boots
-Chelsea Chain Trim Boots
+[Chelsea Ankle Boots](https://nl.boohoo.com/zip-trim-chelsea-ankle-boots/DZZ44469.html?color=197)
+[Chelsea Chain Trim Boots](https://nl.boohoo.com/double-strap-chelsea-cut-work-chain-trim-boots/DZZ20411.html)
 
 **Hats**
-Round Felt Hat
-Ribbon Trim Floppy Hat
+[Round Felt Hat](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/petra-round-felt-hat-7311372)
+[Ribbon Trim Floppy Hat](https://nl.boohoo.com/maisy-ribbon-trim-floppy-hat/DZZ19316.html)
 
 
 
