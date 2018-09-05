@@ -1,5 +1,5 @@
 ---
-title: 'An inspiration style guide to American Horror Story: Coven - Cordelia'
+title: COVEN - Cordelia
 date: 2018-09-04 17:29:00 +02:00
 ---
 
