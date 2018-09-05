@@ -22,3 +22,7 @@ As I said before, Cordelia is a witch and so she also has the black clothing sid
 If Cordelia’s isn’t wearing simple blouses, she is probabrly wearing floral print (mostly combined with black) In the show we see her wearing two floral midi skirts with black thights and a black shirt. She wears these skirts with ankle boots and she might wear her pearl necklace as accessoire. Here we see Cordelia wear a skirt a floral pattern, she wears this with an elegant wide neck black shirt.
 
 Throughout the show there are some scenes were we can see Sarah Paulson wear a floral dress. Two of these dresses she wore after finding out she was the next supreme witch in the coven. Her character has developed in a more confident woman than she was before and that shows in her appearance/clothing style.
+
+**Inspiration Looks**
+
+Remember that cordelia dresses modest with no expressive jewelerys or accessoiries. When sjhe wears dresses she wear thights underneath ad if she doesnt, the dress will most likely not be above the knee. Keep it easy and classic with the floral patterns, combine them with a simple black shirt or black trousers.
