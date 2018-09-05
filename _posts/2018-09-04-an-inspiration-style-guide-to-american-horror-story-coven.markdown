@@ -1,5 +1,5 @@
 ---
-title: 'An inspiration style guide to American Horror Story: Coven - Zoe'
+title: COVEN - Zoe
 date: 2018-09-04 16:59:00 +02:00
 ---
 
