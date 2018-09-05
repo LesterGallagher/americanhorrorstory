@@ -38,28 +38,34 @@ If you want to recreate some of Cordelia’s style then you can keep these thing
 
 Here are some links to clothing items:
 
-Scoop Neck Top
+**Tops**
 
-Floral Mesh Long Sleeve Top
+[Scoop Neck Top](https://www.urbanoutfitters.com/shop/uo-dara-open-scoop-neck-top)
 
-Mesh Kimono
+[Floral Mesh Long Sleeve Top](https://www.urbanoutfitters.com/shop/uo-floral-mesh-long-sleeve-top?category=womens-tops&color=009)
 
-Ruffle Detail Blouse
+[Mesh Kimono](https://nl.boohoo.com/mesh-kimono-with-crochet-trim/DZZ19028.html?color=105)
 
-Button-up Shirt
+[Ruffle Detail Blouse](https://nl.boohoo.com/ruffle-detail-blouse/DZZ83918.html?color=105)
 
-Ruffle Collar Shirt
+[Button-up Shirt](https://www.monki.com/en_eur/clothing/tops/product.classic-button-up-shirt-floral-print.0628346027.html)
 
-Peplum Wrap Top
+[Ruffle Collar Shirt](http://eu.topshop.com/en/tseu/product/clothing-485092/shirts-blouses-4650803/ruffle-collar-shirt-7757721)
 
-Maxi Dress
+[Peplum Wrap Top](http://eu.topshop.com/en/tseu/product/clothing-485092/shirts-blouses-4650803/petite-peplum-wrap-top-7268306)
 
-Bodycon Dress
+**Dresses**
 
-Midi Dress
+[Maxi Dress](http://eu.topshop.com/en/tseu/product/clothing-485092/dresses-485107/leopard-print-maxi-dress-by-glamorous-7908154)
 
-Midi Skirt
+[Bodycon Dress](https://nl.boohoo.com/tall-off-the-shoulder-wrap-midi-bodycon-dress/TZZ97882.html?color=105)
 
-High Waisted Trousers
+[Midi Dress](https://nl.boohoo.com/boutique-full-skirted-prom-midi-dress/AZZ03564.html?color=105)
 
-Crinkle Layer Skirt
+**Skirts & Trousers**
+
+[Midi Skirt](https://www.monki.com/en_eur/clothing/skirts/product.midi-skirt-floral-print.0562278014.html)
+
+[High Waisted Trousers](https://nl.boohoo.com/petite--high-waisted-woven-wide-leg-trousers/PZZ81790.html?color=105)
+
+[Crinkle Layer Skirt](http://eu.topshop.com/en/tseu/product/clothing-485092/skirts-485114/crinkle-layer-skirt-by-lace-beads-7432422)
