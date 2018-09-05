@@ -37,3 +37,29 @@ If you want to recreate some of Cordelia’s style then you can keep these thing
 * If you wear floral, make sure you wear it combine it with black.
 
 Here are some links to clothing items:
+
+Scoop Neck Top
+
+Floral Mesh Long Sleeve Top
+
+Mesh Kimono
+
+Ruffle Detail Blouse
+
+Button-up Shirt
+
+Ruffle Collar Shirt
+
+Peplum Wrap Top
+
+Maxi Dress
+
+Bodycon Dress
+
+Midi Dress
+
+Midi Skirt
+
+High Waisted Trousers
+
+Crinkle Layer Skirt
