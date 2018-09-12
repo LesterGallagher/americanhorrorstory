@@ -18,19 +18,19 @@ defaults:
     cover_image: ''
 description: Web, app and tooling development and graphic design studio. View all
   websites made by Echo Sierra Studio and contact us if your interested.
-cover_image: "/images/cover.jpg"
+cover_image: "/uploads/american-horror-story.jpg"
 markdown: kramdown
 url: https://americanhorrorstory.esstudio.site
 enforce_ssl: americanhorrorstory.esstudio.site
 pygments: true
 dribbble_username: 
-facebook_username: test
+facebook_username: 
 flickr_username: 
-github_username: test
+github_username: 
 instagram_username: 
 linkedin_username: 
 pinterest_username: 
-twitter_username: test
+twitter_username: 
 youtube_username: 
 googleplus_username: 
 keywords: keyword1, keyword2, keyword3
