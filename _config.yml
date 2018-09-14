@@ -19,7 +19,7 @@ defaults:
 description: Web, app and tooling development and graphic design studio. View all
   websites made by Echo Sierra Studio and contact us if your interested.
 cover_image: "/uploads/american-horror-story.jpg"
-image_src: 
+image_src: "/uploads/american-horror-story.jpg"
 markdown: kramdown
 url: https://ahsstyle.esstudio.site
 enforce_ssl: ahsstyle.esstudio.site
