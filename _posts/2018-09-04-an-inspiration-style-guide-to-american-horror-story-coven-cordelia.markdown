@@ -32,6 +32,7 @@ As I said before, Cordelia is a witch and so she also has the black clothing sid
 ![Cordelia_witch.jpg](/uploads/Cordelia_witch.jpg)
 
 **Inspiration Looks**
+
 If you want to recreate some of Cordelia’s style then you can keep these things in mind:
 
 * Remember that Cordelia dresses modest
