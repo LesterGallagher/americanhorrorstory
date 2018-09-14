@@ -3,19 +3,17 @@ title: COVEN - Zoe
 date: 2018-09-04 16:59:00 +02:00
 ---
 
-**Zoe Benson**
-
-Zoe Benson is a character of American Horror Story’s third season (“Coven”), she is played by Taissa Farmiga. In the season Taissa plays the 17-year-old girl-next-door Zoe Benson who has her life turned upside-down in an instant when she discovers she is witch. She is being sent away to a school were young witches learn to control their gifts.
+Zoe Benson is a character of American Horror Story’s third season (“Coven”), she is portrayed by Taissa Farmiga. In the season Taissa plays the 17-year-old girl-next-door Zoe Benson who has her life turned upside-down in an instant when she discovers she is witch. She is being sent away to a school were young witches learn to control their gifts.
 
 Zoe is a young girl with chest-long, straight, dark blonde hair. She is seen to wear it down with a center part most of the time. She is seen to wear very little makeup ad dresses in dark colors much of the time, often times pairing a hat with her ensemble.
 
-*Style
-Zoe has a few things in het clothing style that catches your eye. She is wearing a lot of blouses and her dresses are mostly midi-length. Her style includes plain girl-next-door clothing, which could have something to do with the fact that she is a shy girl who doesn’t want to attract too much attention. Her dresses are mostly midi-lentgth combines with ankle boots/heels. She also combines her outfits with big black hats that give her an immediate witchy mistirous look.*
+**Style**
+Zoe has a basic clothing style with her own twist. She wears a lot of blouses and her dresses are mostly midi-length. Her style includes plain girl-next-door clothing, which could have something to do with the fact that she is a shy girl who doesn’t want to attract too much attention. As I sad before Zoe mainly wears dresses that are midi-lentgth which she combines with ankle boots/heels. She also combines her outfits with big black hats that give her an immediate witchy mysterious look.
 
 ![first dress.jpg](/uploads/first%20dress.jpg)
 
-*Casual Zoe
-As you can see, she has a relative simple casual style with simple sweaters. She does draws attention to her hair with a side braid or pigtails. Zoe can also been seen wearing multiple layers of clothing, her casual clothing mostly contains small details like her hair.*
+**Casual Zoe**
+As you can see, she has a quite simple casual style with simple sweaters. She does gives attention to her hair with a side braid or pigtails sometime. Zoe can also been seen wearing multiple layers of clothing, her casual clothing mostly contains small details like her hair.
 
 ![Zoe casual.jpg](/uploads/Zoe%20casual.jpg)
 
@@ -56,16 +54,23 @@ Here are some links to clothing items:
 
 **Blouses & sweaters**
 [Mock Neck Top](https://www.urbanoutfitters.com/shop/uo-maggie-mock-neck-top?category=womens-tops&color=010)
+
 [Split Side Maxi Kimono](https://nl.boohoo.com/split-side-maxi-kimono/DZZ14568.html?color=105)
+
 [Ruffle Front Sleeve Dress](https://nl.boohoo.com/-ruffle-front-full-sleeve-blouse/DZZ24285.html?color=105)
+
 [Cardigan](https://www.urbanoutfitters.com/shop/uo-blake-cardigan?category=sweaters-cardigans-for-women&color=006)
+
 [Sweater](https://nl.boohoo.com/plus-roll-neck-tipped-tie-sleeve-jumper/PZZ83638.html)
+
 [Button-up Shirt](https://www.monki.com/en_eur/clothing/tops/shirts-and-blouses/product.classic-button-up-shirt-white-light.0628346034.html)
 
 **Shoes**
 [Chelsea Ankle Boots](https://nl.boohoo.com/zip-trim-chelsea-ankle-boots/DZZ44469.html?color=197)
+
 [Chelsea Chain Trim Boots](https://nl.boohoo.com/double-strap-chelsea-cut-work-chain-trim-boots/DZZ20411.html)
 
 **Hats**
 [Round Felt Hat](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/petra-round-felt-hat-7311372)
+
 [Ribbon Trim Floppy Hat](https://nl.boohoo.com/maisy-ribbon-trim-floppy-hat/DZZ19316.html)
