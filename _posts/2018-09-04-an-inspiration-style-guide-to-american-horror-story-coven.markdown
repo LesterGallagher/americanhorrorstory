@@ -10,7 +10,7 @@ Zoe is a young girl with chest-long, straight, dark blonde hair. She is seen to 
 **Style**
 Zoe has a basic clothing style with her own twist. She wears a lot of blouses and her dresses are mostly midi-length. Her style includes plain girl-next-door clothing, which could have something to do with the fact that she is a shy girl who doesn’t want to attract too much attention. As I sad before Zoe mainly wears dresses that are midi-lentgth which she combines with ankle boots/heels. She also combines her outfits with big black hats that give her an immediate witchy mysterious look.
 
-![first dress.jpg](/uploads/first%20dress.jpg)
+![first dress-084c15.jpg](/uploads/first%20dress-084c15.jpg)
 
 **Casual Zoe**
 As you can see, she has a quite simple casual style with simple sweaters. She does gives attention to her hair with a side braid or pigtails sometime. Zoe can also been seen wearing multiple layers of clothing, her casual clothing mostly contains small details like her hair.
@@ -24,7 +24,7 @@ You can see Zoe wearing a lot of black and white blouses. She dresses more class
 
 I had to include this iconic dress which is so cool looking. The waist belt, the sleeves and the hat go so well together.
 
-![Black Dress.jpg](/uploads/Black%20Dress.jpg)
+![Black Dress-e8c4e2.jpg](/uploads/Black%20Dress-e8c4e2.jpg)
 
 **Inspiration Looks**
 In the first episode we see Zoe wearing this midi-length dress with little ankle boots. She combines this with her black hat. In this outfit you can see the mesh detail on the front, which Zoe wears a lot.
