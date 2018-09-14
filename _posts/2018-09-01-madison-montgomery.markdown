@@ -4,7 +4,6 @@ date: 2018-09-01 18:02:00 +02:00
 Field name: 
 ---
 
-
 If you’ve seen the third season of Ryan Murphy’s American Horror Story (“Coven”) you’ll know there’s a thin line between loving and hating the character Madison Montgomery (played by Emma Roberts). We all have the love and hate relationship with Emma Roberts’ perfected bitchfaces and incredible hair-flips and that’s what makes this character so memorable.
 
 Some background information of Madison, in case you kinda forgot season three of American Horror Story: Madison Montgomery is a 17-year-old out-of-control Hollywood starlet who is used to things going her way. But after becoming stranded at Miss Robichaux's Academy for Exceptional Young Ladies (aka witches, what the whole season is about) she learns that she needs more than star power to shine. Madison is an extremely powerful telekinetic witch and she is not afraid to tell you that.
@@ -56,6 +55,7 @@ If you want to recreate some of Madison Montgomery’s style then you can keep t
 * And most importantly: put on some high shoes or socks
 
 Here are some links to clothing items:
+
 **Dresses:**
 
 [Puff Sleeve Skater Dress - Boohoo](https://us.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
