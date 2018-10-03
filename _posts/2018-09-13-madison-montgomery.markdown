@@ -26,6 +26,8 @@ At the beginning of the show we see Madison wear tiny dresses with heels (prefer
 
 In the third season of American Horror Story we also see Madison wear a lot of black and other dark colors. The whole witch cast of this season also wears a lot of black. So when \[spoiler\] Madison dies and gets brought back to life one of the first things we see her wear is a black loose fitted dress with a chocker. And we can kind of sense that her Madison changed into a much darker character after being brought back to life. The accessories she wears with these long ‘witchy’ dresses are chockers because \[spoiler\] she got her throat cut which resulted in her death and that left a scar around her neck.
 
+{% include ad.html %}
+
 ![madison black-44e073.jpg](/uploads/madison%20black-44e073.jpg)
 
 ![Red Dress-1-cfdb19.jpg](/uploads/Red%20Dress-1-cfdb19.jpg)
