@@ -40,7 +40,7 @@ The whole witch cast of season three can be seen wearing a lot of black/dark col
 ![Leather Skirt-7a2bd4.jpg](/uploads/Leather%20Skirt-7a2bd4.jpg)
 
 ![Black Set-b254ae.jpg](/uploads/Black%20Set-b254ae.jpg)
-
+{% include ad.html %}
 **Inspiration Looks**
 
 If you want to recreate some of Madison Montgomery’s style then you can keep these things in mind:
@@ -114,3 +114,4 @@ Here are some links to clothing items:
 [Over-the-knee Socks - Boohoo](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
 
 [Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
+{% include ad.html %}
