@@ -3,7 +3,7 @@ title: COVEN - Zoe
 date: 2018-09-19 16:59:00 +02:00
 ---
 
-![quote_zoe.png](/uploads/quote_zoe.png)
+![quote_zoe-fdff35.png](/uploads/quote_zoe-fdff35.png)
 Zoe Benson is a character of American Horror Story’s third season (“Coven”), she is portrayed by Taissa Farmiga. In the season Taissa plays the 17-year-old girl-next-door Zoe Benson who has her life turned upside-down in an instant when she discovers she is witch. She is being sent away to a school were young witches learn to control their gifts.
 
 Zoe is a young girl with chest-long, straight, dark blonde hair. She is seen to wear it down with a center part most of the time. She is seen to wear very little makeup ad dresses in dark colors much of the time, often times pairing a hat with her ensemble.
