@@ -1,6 +1,6 @@
 ---
 title: COVEN - Cordelia
-date: 2018-09-04 17:29:00 +02:00
+date: 2018-09-11 17:29:00 +02:00
 ---
 
 Cordelia Goode (formerly known as Cordelia Foxx) is the Headmistress of Miss Robichaux's Academy in the third season of American Horror Story (Coven) She is played by Sarah Paulson. She is also the daughter of former Supreme Fiona Goode and skilled at potioncraft.
