@@ -110,4 +110,4 @@ Here are some links to clothing items:
 [Over-the-knee Socks - Boohoo](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
 
 [Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
-{% include ad.html %}
+{% include ad.html %}![quote_zoe.png](/uploads/quote_zoe.png)
