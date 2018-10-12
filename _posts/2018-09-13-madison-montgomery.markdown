@@ -12,7 +12,6 @@ Some background information of Madison, in case you kinda forgot season three of
 
 As we all know, Emma Roberts, with her thin figure, long legs and blonde hair, is made for the role of being a mean girl. And that’s why you’ll see her character Madison wear revealing clothes that show of her figure. If there’s one thing you need to know about Madison’s style is that they accentuate her legs a lot with high shoes or knee socks. You’ll see a lot of outfits were she’s wearing knee socks or high shoes with a skirt or shorts.
 
-![extra.jpg](/uploads/extra.jpg)
 
 **Party Dress-Madison**
 
