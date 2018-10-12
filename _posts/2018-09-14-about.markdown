@@ -1,5 +1,5 @@
 ---
-title: An inspirational style guide to American Horror Story
+title: About
 date: 2018-09-14 20:01:00 +02:00
 cover_image: "/uploads/styleguide_logo.png"
 ---
