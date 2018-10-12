@@ -13,6 +13,3 @@ Tumblr: http://nope08.tumblr.com/
 Instagram: https://www.instagram.com/watiseva/
 
 ![smiley.png](/uploads/smiley.png)
-
-
-{% include ad.html %}
