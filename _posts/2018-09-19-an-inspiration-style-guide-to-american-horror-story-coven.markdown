@@ -3,7 +3,7 @@ title: COVEN - Zoe
 date: 2018-09-19 16:59:00 +02:00
 ---
 
-![quote_zoe-fdff35.png](/uploads/quote_zoe-fdff35.png)
+![quote_zoe.png](/uploads/quote_zoe.png)
 Zoe Benson is a character of American Horror Story’s third season (“Coven”), she is portrayed by Taissa Farmiga. In the season Taissa plays the 17-year-old girl-next-door Zoe Benson who has her life turned upside-down in an instant when she discovers she is witch. She is being sent away to a school were young witches learn to control their gifts.
 
 Zoe is a young girl with chest-long, straight, dark blonde hair. She is seen to wear it down with a center part most of the time. She is seen to wear very little makeup ad dresses in dark colors much of the time, often times pairing a hat with her ensemble.
@@ -14,6 +14,7 @@ Zoe has a basic clothing style with her own twist. She wears a lot of blouses an
 
 ![first dress-084c15.jpg](/uploads/first%20dress-084c15.jpg)
 {% include ad.html %}
+
 **Casual Zoe**
 
 As you can see, she has a quite simple casual style with simple sweaters. She does gives attention to her hair with a side braid or pigtails sometime. Zoe can also been seen wearing multiple layers of clothing, her casual clothing mostly contains small details like her hair.
@@ -30,6 +31,7 @@ I had to include this iconic dress which is so cool looking. The waist belt, the
 
 ![Black Dress-e8c4e2.jpg](/uploads/Black%20Dress-e8c4e2.jpg)
 {% include ad.html %}
+
 **Inspiration Looks**
 
 In the first episode we see Zoe wearing this midi-length dress with little ankle boots. She combines this with her black hat. In this outfit you can see the mesh detail on the front, which Zoe wears a lot.
@@ -84,4 +86,5 @@ Here are some links to clothing items:
 [Round Felt Hat](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/petra-round-felt-hat-7311372)
 
 [Ribbon Trim Floppy Hat](https://nl.boohoo.com/maisy-ribbon-trim-floppy-hat/DZZ19316.html)
+
 {% include ad.html %}
