@@ -25,6 +25,7 @@ If Cordelia’s isn’t wearing simple blouses, she is probabrly wearing floral 
 Throughout the show there are some scenes were we can see Sarah Paulson wear a floral dress. Two of these dresses she wore after finding out she was the next supreme witch in the coven. Her character has developed in a more confident woman than she was before and that shows in her appearance/clothing style.
 
 ![Cordelia_floral.jpg](/uploads/Cordelia_floral.jpg)
+{% include ad.html %}
 
 **Witch Cordelia**
 
