@@ -5,6 +5,7 @@ date: 2018-09-15 17:29:00 +02:00
 
 
 Misty Day is a witch with extraordinary gifts who lived alone in a swamp before being brought into Miss Robichaux's Academy. She is a character in American Horror Story’s third season named Coven. She is portrayed by Lily Rabe. She possesses the natural born gift of resurgence: the ability to bring souls back from the dead.
+
 ![Misty_outfit_1.jpg](/uploads/Misty_outfit_1.jpg)
 ![Misty_outfit_2.jpg](/uploads/Misty_outfit_2.jpg)
 {% include ad.html %}
@@ -50,4 +51,5 @@ Here are some links to clothing items:
 [Tribal Multipack Rings](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/jewellery-485134/tribal-multipack-rings-7856282)
 
 [Lace Up Eyelet Corset Belt ](https://nl.boohoo.com/lace-up-eyelet-corset-belt/DZZ58814.html)
+
 {% include ad.html %}
