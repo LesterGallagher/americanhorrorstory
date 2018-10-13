@@ -14,6 +14,7 @@ Misty Day is a witch with extraordinary gifts who lived alone in a swamp before 
 Misty Day’s clothing style will remain the same during the show. It’s very eccentric with a lot of accessories and details. If you can picture cordelia’s look for example, you’ll see that misty’s is exactly the opposite. Misty wears long drapey dresses with scarfs and fringes and a lot of rings and bracelets. She also is seen wearing waistbands corsets in some looks.
 ![Misty_outfit_3.jpg](/uploads/Misty_outfit_3.jpg)
 ![mistyddd.jpg](/uploads/mistyddd.jpg)
+{% include ad.html %}
 Here are some links to clothing items:
 
 **Dresses & Tops**
