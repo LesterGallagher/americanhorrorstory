@@ -1,56 +1,66 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-      <meta charset="utf-8">
-      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-      <meta name="viewport" content="width=device-width">
-      <link rel="stylesheet" href="{{ '/css/main.css' | absolute_url }}">
-      <link rel="stylesheet" href="{{ '/css/responsive.css' | absolute_url }}">
-      <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
-      <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
-      <meta name="theme-color" content="#242424">
-      <meta name="eced0146b6f8cf7" content="ea3449bebad31ba871781a0c64f98de5" />
-      <link rel="image_src" href="{{ site.image_src | absolute_url }}" />
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-      {% seo %}
+  <meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="{{ '/css/main.css' | absolute_url }}">
+  <link rel="stylesheet" href="{{ '/css/responsive.css' | absolute_url }}">
+  <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:300,400,700' rel='stylesheet' type='text/css'>
+  <meta name="theme-color" content="#242424">
+  <meta name="eced0146b6f8cf7" content="ea3449bebad31ba871781a0c64f98de5" />
+  <link rel="image_src" href="{{ site.image_src | absolute_url }}" />
 
-      {% feed_meta %}
-    
-      <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-      {% if jekyll.environment == 'production' and site.google_analytics %}
-        {% include google-analytics.html %}
-      {% endif %}
+  {% seo %}
 
-      
-  </head>
-  <body>
-    <div class="site">
-      <div class="sidebar" id="sidebar">
-        <div class="header">
-          <h2 class="title"><a href="{{ '/' | absolute_url }}"><img id="logo" alt="Logo" src="{{ site.cover_image | absolute_url }}"></a></h2>
-          <span class="tagline">{{ site.title }}</span>
-        </div>
-        <div class="posts">
-          <ul class="posts-list">
-            {% for post in site.posts %}
-              <li class="post-link">
-                <a class="post-title" href="{{ post.url }}">
-                  <span class="post-date">{{ post.date | date_to_string }}</span>
-                  {{ post.title }}
-                </a>
-              </li>
-            {% endfor %}
-          </ul>
-        </div>
-        <div class="footer">
-          <span id="footer-links">
-            {% include social.html %}
-          </span>
-        </div>
+  {% feed_meta %}
+
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include google-analytics.html %}
+  {% endif %}
+
+
+</head>
+
+<body>
+  <div class="site">
+    <div class="sidebar" id="sidebar">
+      <div class="header">
+        <h2 class="title"><a href="{{ '/' | absolute_url }}"><img id="logo" alt="Logo" src="{{ site.cover_image | absolute_url }}"></a></h2>
+        <span class="tagline">{{ site.title }}</span>
       </div>
-        {{ content }}
+      <div class="posts">
+        <ul class="posts-list">
+          {% for post in site.posts %}
+          <li class="post-link">
+            <a class="post-title" href="{{ post.url }}">
+              <span class="post-date">{{ post.date | date_to_string }}</span>
+              {{ post.title }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="pages">
+        <ul class="pages-list">
+          <li class="page-link">
+            <a class="page-title" href="/about.html">About</a>
+          </li>
+        </ul>
+      </div>
+      <div class="footer">
+        <span id="footer-links">
+          {% include social.html %}
+        </span>
+      </div>
     </div>
-    <script src="{{ '/scripts/responsive.js' | absolute_url }}" type="text/javascript"></script>
-  </body>
+    {{ content }}
+  </div>
+  <script src="{{ '/scripts/responsive.js' | absolute_url }}" type="text/javascript"></script>
+</body>
+
 </html>
