@@ -28,8 +28,8 @@ cover_image: "/uploads/styleguide_logo.png"
 getsimpleform_api_token: cfe536c569efa59f26c3e4966ea452fd
 image_src: "/uploads/styleguide_logo.jpg"
 markdown: kramdown
-url: https://ahsstyle.esstudio.site
-enforce_ssl: ahsstyle.esstudio.site
+url: https://americanhorrorstory.style
+enforce_ssl: americanhorrorstory.style
 pygments: true
 dribbble_username: 
 facebook_username: 

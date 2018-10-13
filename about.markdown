@@ -13,3 +13,5 @@ Here's some information about me because apparently that's what you need to do o
 * [Instagram](https://www.instagram.com/watiseva/)
 
 ![smiley.png](/uploads/smiley.png)
+
+{% include contact-form.html %}

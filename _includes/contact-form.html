@@ -1,13 +1,12 @@
 <fieldset>
-    <legend data-aos="fade-left" class="aos-init aos-animate">
+    <legend>
         <h4>
             <b>I'll get back to you shortly…</b>
         </h4>
     </legend>
-    <form data-aos="fade-left" action="https://getsimpleform.com/messages?form_api_token={{ site.getsimpleform_api_token }}"
-        method="post" class="aos-init aos-animate">
+    <form data-aos="fade-left" action="https://getsimpleform.com/messages?form_api_token={{ site.getsimpleform_api_token }}" method="post" >
         <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-        <input type="hidden" name="redirect_to" value="https://bunkersem.github.io/effie_design/contact-thank-you">
+        <input type="hidden" name="redirect_to" value="{{ '/thankyou' | absolute_url }}">
         <!-- all your input fields here.... -->
         <input required="" spellcheck="false" placeholder="Your name" type="text" name="name">
         <input required="" spellcheck="false" placeholder="Your email" type="email" name="email">
