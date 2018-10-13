@@ -22,7 +22,7 @@ In the episodes where we see her being in the coven she is seen wearing a white 
 
 In another scene a black dress with gold belt detail. She uses a lot of golden details which go great with her dark blonde hair. She also wears an off-shoulder top with black mesh and golden lines.
 
-![outfit2.jpg](/uploads/outfit2.jpg)
+![outfit2-310875.jpg](/uploads/outfit2-310875.jpg)
 {% include ad.html %}
 
 Here are some items:
