@@ -4,8 +4,6 @@ date: 2018-09-20 18:02:00 +02:00
 Field name: 
 ---
 
-![original.gif](/uploads/original.gif)
-
 If you’ve seen the third season of Ryan Murphy’s American Horror Story (named: Coven) you’ll know there’s a thin line between loving and hating the character Madison Montgomery (played by Emma Roberts). We all have the love and hate relationship with Emma Roberts’ perfected bitchfaces and incredible hair-flips and that’s what makes this character so memorable.
 
 Here is some background information on Madison, in case you kinda forgot season three of American Horror Story: Madison Montgomery is a 17-year-old out-of-control Hollywood starlet who is used to things going her way. But after becoming stranded at Miss Robichaux's Academy for Exceptional Young Ladies (aka witches, what the whole season is about) she learns that she needs more than star power to shine. Madison is an extremely powerful telekinetic witch and she is not afraid to tell you that.
@@ -116,4 +114,5 @@ Here are some links to clothing items:
 [Over-the-knee Socks - Boohoo](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
 
 [Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
-{% include ad.html %}![quote_zoe.png](/uploads/quote_zoe.png)
+
+{% include ad.html %}!
