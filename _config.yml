@@ -25,6 +25,7 @@ description: This site is an inspiration style guide to some of the iconic Ameri
   Horror Story characters. On this website you can search for different American Horror
   Story characters and their unique clothing style.
 cover_image: "/uploads/styleguide_logo.png"
+getsimpleform_api_token: cfe536c569efa59f26c3e4966ea452fd
 image_src: "/uploads/styleguide_logo.jpg"
 markdown: kramdown
 url: https://ahsstyle.esstudio.site
