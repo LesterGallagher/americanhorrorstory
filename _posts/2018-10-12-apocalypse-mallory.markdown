@@ -7,7 +7,7 @@ Billie Lourd is back! Previously we saw Billie Lourd portraying Winter Anderson 
 
 {% include ad.html %}
 
-In episodes after that we get some background information on Mallory and we get to know that she is a Salem descendant and used to be a witch in the Coven. At the Robichaux’s Academy we see Zoe being a teacher and seeing potential in Mallory’s powers, as Mallory flawlessly turned a flower’s petals to blue and then turning the petals into butterflies, impressing Cordelia, the Surpreme. Here she is wearing an off-shoulder top with black mesh and golden stripes, she also wear some sort of golden diadem. Gold as **accent color** is importent to keep in mind.
+In episodes after that we get some background information on Mallory and we get to know that she is a Salem descendant and used to be a witch in the Coven. At the Robichaux’s Academy we see Zoe being a teacher and seeing potential in Mallory’s powers, as Mallory flawlessly turned a flower’s petals to blue and then turning the petals into butterflies, impressing Cordelia, the Surpreme. Here she is wearing an off-shoulder top with black mesh and golden stripes, she also wear some sort of golden diadem. Gold as accent color is important to keep in mind.
 
 ![outfit3.jpg](/uploads/outfit3.jpg)
 
