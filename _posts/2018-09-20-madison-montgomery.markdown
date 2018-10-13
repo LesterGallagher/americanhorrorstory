@@ -20,7 +20,6 @@ At the beginning of the show we see Madison wear tiny dresses with heels, prefer
 ![Blue Dress-51b4db.jpg](/uploads/Blue%20Dress-51b4db.jpg)
 
 ![White dress-d6a9a9.jpg](/uploads/White%20dress-d6a9a9.jpg)
-
 {% include ad.html %}
 
 **"Witchy"-Madison**
