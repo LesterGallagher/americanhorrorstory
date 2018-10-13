@@ -4,4 +4,4 @@ date: 2018-10-13 14:35:00 +02:00
 permalink: "/thankyou"
 ---
 
-Thankyou for your message!
+Your message has been sent.
