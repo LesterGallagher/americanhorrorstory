@@ -83,6 +83,7 @@ Here are some links to clothing items:
 [Chelsea Chain Trim Boots](https://nl.boohoo.com/double-strap-chelsea-cut-work-chain-trim-boots/DZZ20411.html)
 
 **Hats**
+
 [Round Felt Hat](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/petra-round-felt-hat-7311372)
 
 [Ribbon Trim Floppy Hat](https://nl.boohoo.com/maisy-ribbon-trim-floppy-hat/DZZ19316.html)
