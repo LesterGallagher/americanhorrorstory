@@ -115,4 +115,4 @@ Here are some links to clothing items:
 
 [Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
 
-{% include ad.html %}!
+{% include ad.html %}
