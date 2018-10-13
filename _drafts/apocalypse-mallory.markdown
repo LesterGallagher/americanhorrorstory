@@ -9,4 +9,4 @@ In episodes after that we get some background information on Mallory and we get 
 
 As I mentioned earlier, right before the apocalypse Mallory is helping Coco becoming a social media influencer, in these scenes she is wearing typical stylish clothes that are popular right now, fo example these jeans with stripes on the side you see everywhere.
 
-After the apocalypse hit and while she is a servant at Outpost 3 she is forced to wear dull gray clothes and her hair in a high bun which Billie Lourd also shared an [Instagram](https://www.instagram.com/praisethelourd/?hl=en) post with the caption: "Everyone’s favorite hairstyle is back and better than ever on #AHSapocalypse" 
+After the apocalypse hit and while she is a servant at Outpost 3 she is forced to wear dull gray clothes and her hair in a high bun which Billie Lourd also shared an [Instagram](https://www.instagram.com/p/Boe4rsZFdiK/?hl=en&taken-by=praisethelourd) post with the caption: "Everyone’s favorite hairstyle is back and better than ever on #AHSapocalypse" 
