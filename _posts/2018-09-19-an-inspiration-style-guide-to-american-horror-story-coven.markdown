@@ -3,7 +3,6 @@ title: COVEN - Zoe
 date: 2018-09-19 16:59:00 +02:00
 ---
 
-
 Zoe Benson is a character of American Horror Story’s third season (“Coven”), she is portrayed by Taissa Farmiga. In the season Taissa plays the 17-year-old girl-next-door Zoe Benson who has her life turned upside-down in an instant when she discovers she is witch. She is being sent away to a school were young witches learn to control their gifts.
 
 Zoe is a young girl with chest-long, straight, dark blonde hair. She is seen to wear it down with a center part most of the time. She is seen to wear very little makeup ad dresses in dark colors much of the time, often times pairing a hat with her ensemble.
@@ -39,15 +38,10 @@ In the first episode we see Zoe wearing this midi-length dress with little ankle
 If you want to recreate some of Zoe Benson’s style then you can keep these things in mind:
 
 * Try to combine a black hat with your outfit
-
 * Keep it simple with your hairstyle
-
 * Wear midi-length dresses
-
 * Blouses are always good
-
 * Wear ankle boots to give it a Zoe vibe
-
 * Wear a lot of black
 
 Here are some links to clothing items:
