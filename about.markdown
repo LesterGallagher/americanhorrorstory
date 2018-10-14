@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2018-10-13 14:35:00 +02:00
+layout: page
 ---
 
 This site is an inspiration style guide to some of the iconic American Horror Story characters. On this website you can search for different American Horror Story characters and their unique clothing styles.
