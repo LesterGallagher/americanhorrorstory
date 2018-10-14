@@ -28,6 +28,7 @@ In another scene a black dress with gold belt detail. She uses a lot of golden d
 Here are some items:
 
 **Accessories:**
-*[Star Moon Charm Chain Necklace Set](https://www.zaful.com/star-moon-charm-chain-necklace-set-p_464758.html)
-*[Moon Star Sun Choker Necklace](https://www.zaful.com/multi-layered-moon-star-sun-choker-necklace-p_573645.html)
+* [Star Moon Charm Chain Necklace Set](https://www.zaful.com/star-moon-charm-chain-necklace-set-p_464758.html)
+
+* [Moon Star Sun Choker Necklace](https://www.zaful.com/multi-layered-moon-star-sun-choker-necklace-p_573645.html)
 
