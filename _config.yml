@@ -1,20 +1,48 @@
 ---
 title: An inspiration style guide to American Horror Story
+timezone: Europe/Amsterdam
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+    permalink: uploads/:path
+defaults:
+- scope:
+    path: ''
+  values:
+    share:
+    - facebook
+    - twitter
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    has_comments: true
+    cover_image: ''
 has_comments: true
 share:
-  - facebook
-  - twitter
-  - google
-  - tumblr
-  - email
-  - pinterest
-  - linkedin
-  - reddit
-  - xing
-  - whatsapp
-  - hackernews
-  - vk
-  - telegram
+- facebook
+- twitter
+- google
+- tumblr
+- email
+- pinterest
+- linkedin
+- reddit
+- xing
+- whatsapp
+- hackernews
+- vk
+- telegram
 disqus: https-americanhorrorstory-style
 description: This site is an inspiration style guide to some of the iconic American
   Horror Story characters. On this website you can search for different American Horror
@@ -53,7 +81,6 @@ fancy_link: https://fancy.com/ahsstyle
 hiivecouk_link: https://www.screenskills.com/profile/7bd7187a-7484-4ce4-96c5-ae57c1d0897c/
 itsmyurl_link: https://itsmyurls.com/ahsstyle
 8tracks_link: https://8tracks.com/ahsstyle
-
 facebook:
   app_id: 
   publisher: 
@@ -79,39 +106,9 @@ humanstxt_designer:
   from: Oosterhout, Noord Brabant, The Netherlands
   role: Designer
   email: ezaa@live.nl
-
-
-timezone: Europe/Amsterdam
 markdown: kramdown
 url: https://americanhorrorstory.style
 enforce_ssl: americanhorrorstory.style
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-    permalink: uploads/:path
-defaults:
-- scope:
-    path: ''
-  values:
-    share: 
-      - facebook
-      - twitter
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    has_comments: true
-    cover_image: ''
 plugins:
 - jekyll-feed
 - jekyll-sitemap

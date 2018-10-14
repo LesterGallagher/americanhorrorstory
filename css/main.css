@@ -1,6 +1,7 @@
 ---
-layout:
+layout: 
 ---
+
 {% include_relative resp-sharing.css %}
 {% include_relative style.css %}
 {% include_relative responsive.css %}
