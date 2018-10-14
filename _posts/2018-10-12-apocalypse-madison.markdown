@@ -21,6 +21,13 @@ In episode 5 Madison can bes een wearing a high waisted black skirt, a crop top 
 
 Here are some items:
 
+**Dresses:**
+*[Off Shoulder Ruffles Fitted Dress](https://www.zaful.com/off-shoulder-ruffles-fitted-dress-p_547529.html)
+*[Corset Off The Shoulder dress](https://www.zaful.com/corset-off-the-shoulder-little-shirt-dress-p_549679.html)
 
+**Tops:**
+*[Lace Tank Top](https://www.zaful.com/cami-scalloped-lace-tank-top-p_283177.html)
+*[See Through Crochet Blouse](https://www.zaful.com/see-through-crochet-patch-blouse-with-tank-top-p_506024.html)
+*[Button Up Ruffle Tank Top](https://www.zaful.com/button-up-ruffle-tank-top-p_561635.html)
 
 
