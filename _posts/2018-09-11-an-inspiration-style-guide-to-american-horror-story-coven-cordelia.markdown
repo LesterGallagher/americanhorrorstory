@@ -38,13 +38,9 @@ As I said before, Cordelia is a witch and so she also has the black clothing sid
 If you want to recreate some of Cordelia’s style then you can keep these things in mind:
 
 * Remember that Cordelia dresses modest
-
 * For jewelry I suggest to keep it simple, with small earrings or a basic pearl necklace
-
 * If you wear a skirt and it fits above your knees, then wears some black tights underneath
-
 * If you wear a pattern on your clothes, make sure it's floral and simple
-
 * If you wear floral, make sure you wear it combine it with black.
 
 Here are some links to clothing items:
