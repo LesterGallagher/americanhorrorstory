@@ -1,5 +1,6 @@
 ---
 ---
+
 {
     "default_locale": "{{ site.lang | default: "en" }}",
     "description": "{{ site.description }}",
