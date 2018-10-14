@@ -24,6 +24,7 @@ defaults:
   values:
     layout: post
     has_comments: true
+    cover_image: ''
     image: "/uploads/styleguide_logo.jpg"
 has_comments: true
 theme_color: '#fafbfc'
@@ -36,7 +37,6 @@ share:
 disqus: https-americanhorrorstory-style
 description: This site is an inspiration style guide to some of the iconic American
   Horror Story characters. Read about ahs characters and their unique clothing style.
-cover_image: "/uploads/styleguide_logo.png"
 getsimpleform_api_token: cfe536c569efa59f26c3e4966ea452fd
 image: "/uploads/styleguide_logo.jpg"
 google_analytics: UA-90014538-16
