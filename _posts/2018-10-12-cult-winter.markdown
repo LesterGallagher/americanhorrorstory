@@ -1,6 +1,6 @@
 ---
 title: CULT - Winter
-date: 2018-10-13 11:11:00 +02:00
+date: 2018-10-12 11:11:00 +02:00
 ---
 
 As we all know, season 7 of American Horror Story was all about Kai Anderson (who is portrayed by the amazing Evan Peters). In season 7 we follow the events around the presidential elections in 2016 and we follow the story of Kai becoming a cult leader in Michigan. We also get to meet Kai’s sister Winter, who is portrayed by Billie Lourd. Winter is a young woman worries about the outcome of Donald Trump’s election tot he US Presidency. Winter is a young woman worried about the outcome of Donald Trump's election to the US Presidency. She is morbidly fascinated by violence and gore and is terrified by her brother Kai, the person that she fears most in the world.
