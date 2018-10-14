@@ -45,15 +45,10 @@ The whole witch cast of season three can be seen wearing a lot of black/dark col
 If you want to recreate some of Madison Montgomery’s style then you can keep these things in mind:
 
 * Try to keep the skirts short
-
 * Keep the jewelry simple, don't over do it
-
 * Try to show off your legs
-
 * If you want to wear a coat, make sure it's a fur coat
-
 * Hair accessories are important.
-
 * And most importantly: put on some high shoes or socks
 
 Here are some links to clothing items:
