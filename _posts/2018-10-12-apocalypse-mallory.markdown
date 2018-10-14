@@ -3,6 +3,8 @@ title: APOCALYPSE - Mallory
 date: 2018-10-12 22:08:00 +02:00
 ---
 
+**Warning: spoilers**
+
 Billie Lourd is back! Previously we saw Billie Lourd portraying Winter Anderson in season 7 (“Cult”). In this season we see her portraying Mallory. Before the apocalypse, Mallory is a stylish girl who is helping Coco establishing herself as a social media influencer. When the apocalypse hits she is put into servitude at Outpost 3, the underground bunker for  the apocalypse  “survivors”. At the end of episode 3 she get brought back from the dead by the witches from season 3 and the episode ends in Madison telling Mallory her famous line:  “Suprise b-, I bet you thought you’d seen the last of me”, which leaves us curious to what could have happened between them. 
 
 {% include ad.html %}
