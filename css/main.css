@@ -348,6 +348,10 @@ a:hover {
     vertical-align: bottom;
 }
 
+.social-media-list .username {
+    display: none;
+}
+
 #footer-links .social-media-list li {
     display: inline;
 }
