@@ -1,6 +1,5 @@
 ---
 title: An inspiration style guide to American Horror Story
-short_name: AHS Style
 timezone: Europe/Amsterdam
 collections:
   posts:
@@ -25,8 +24,9 @@ defaults:
     layout: post
     has_comments: true
     image: "/uploads/styleguide_logo.jpg"
+short_name: AHS Style
 has_comments: true
-theme_color: '#fafbfc'
+theme_color: "#fafbfc"
 share:
 - facebook
 - twitter
