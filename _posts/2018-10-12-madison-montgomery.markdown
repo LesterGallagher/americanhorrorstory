@@ -60,58 +60,58 @@ Here are some links to clothing items:
 
 **Dresses:**
 
-[Puff Sleeve Skater Dress - Boohoo](https://us.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
+[Puff Sleeve Skater Dress](https://us.boohoo.com/square-neck-3%2F4-puff-sleeve-skater-dress/DZZ14552.html)
 
-[Open Shoulder Crochet Dress - Boohoo](https://nl.boohoo.com/plus-open-shoulder-crochet-dress/PZZ81043.html?color=105)
+[Open Shoulder Crochet Dress](https://nl.boohoo.com/plus-open-shoulder-crochet-dress/PZZ81043.html?color=105)
 
-[Ruffle Knit Dress - Revolve](https://www.revolve.com/ronny-kobo-bethanny-ruffle-pointelle-knit-dress/dp/RONR-WD307/?d=Womens&page=2&lc=14&itrownum=5&itcurrpage=2&itview=01)
+[Ruffle Knit Dress](https://www.revolve.com/ronny-kobo-bethanny-ruffle-pointelle-knit-dress/dp/RONR-WD307/?d=Womens&page=2&lc=14&itrownum=5&itcurrpage=2&itview=01)
 
-[Button-Front Dress - Urban Outfitters](https://www.urbanoutfitters.com/shop/lioness-american-sweetheart-plunging-button-front-dress?category=dresses&color=001)
+[Button-Front Dress](https://www.urbanoutfitters.com/shop/lioness-american-sweetheart-plunging-button-front-dress?category=dresses&color=001)
 
-[Emilia Dress - Revolve](https://www.revolve.com/sabina-musayev-emilia-dress/dp/SBNA-WD5/?d=Womens&page=2&lc=5&itrownum=2&itcurrpage=2&itview=01)
+[Emilia Dress](https://www.revolve.com/sabina-musayev-emilia-dress/dp/SBNA-WD5/?d=Womens&page=2&lc=5&itrownum=2&itcurrpage=2&itview=01)
 
 **Tops:**
 
-[Lace Mock-Neck Top - Urban Outfitters](https://www.urbanoutfitters.com/shop/uo-bella-lace-mock-neck-top?category=womens-tops&color=001)
+[Lace Mock-Neck Top](https://www.urbanoutfitters.com/shop/uo-bella-lace-mock-neck-top?category=womens-tops&color=001)
 
-[Glossy Short-sleeved Blouse - Monki](https://www.monki.com/en_eur/clothing/tops/shirts-and-blouses/product.glossy-short-sleeved-blouse-black-magic.0684913001.html)
+[Glossy Short-sleeved Blouse](https://www.monki.com/en_eur/clothing/tops/shirts-and-blouses/product.glossy-short-sleeved-blouse-black-magic.0684913001.html)
 
 **Skirts:**
 
-[Mirror Work Skirt - Topshop](http://eu.topshop.com/en/tseu/product/clothing-485092/skirts-485114/cast-no-shadow-mirror-work-skirt-by-wyldr-7405524)
+[Mirror Work Skirt](http://eu.topshop.com/en/tseu/product/clothing-485092/skirts-485114/cast-no-shadow-mirror-work-skirt-by-wyldr-7405524)
 
-[High-Rise Leather Mini Skirt - Urban Outfitters](https://www.urbanoutfitters.com/shop/vintage-high-rise-leather-mini-skirt?category=skirts&color=001)
+[High-Rise Leather Mini Skirt](https://www.urbanoutfitters.com/shop/vintage-high-rise-leather-mini-skirt?category=skirts&color=001)
 
 **Coats:**
 
-[Faux Fur Coat - Topshop](http://eu.topshop.com/en/tseu/product/clothing-485092/jackets-coats-2390890/tall-faux-fur-coat-7879416)
+[Faux Fur Coat](http://eu.topshop.com/en/tseu/product/clothing-485092/jackets-coats-2390890/tall-faux-fur-coat-7879416)
 
-[Oversized Collar Faux Fur Coat - Boohoo](https://nl.boohoo.com/jasmine-boutique-oversized-collar-faux-fur-coat/DZZ49835.html)
+[Oversized Collar Faux Fur Coat](https://nl.boohoo.com/jasmine-boutique-oversized-collar-faux-fur-coat/DZZ49835.html)
 
-[Longline Tailored Crepe Cape - Boohoo](https://nl.boohoo.com/longline-tailored-crepe-cape/DZZ77562.html?color=105)
+[Longline Tailored Crepe Cape](https://nl.boohoo.com/longline-tailored-crepe-cape/DZZ77562.html?color=105)
 
 **Shoes:**
 
-[Pointed Toe Sock Boots - Boohoo](https://nl.boohoo.com/pointed-toe-sock-boots/DZZ33686.html)
+[Pointed Toe Sock Boots](https://nl.boohoo.com/pointed-toe-sock-boots/DZZ33686.html)
 
-[Stretch Over Knee Cleated Boots - Boohoo](https://nl.boohoo.com/stretch-over-knee-cleated-boots/DZZ97820.html)
+[Stretch Over Knee Cleated Boots](https://nl.boohoo.com/stretch-over-knee-cleated-boots/DZZ97820.html)
 
 **Accessories:**
 
-[Leather Look Beret Hat - Topshop](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/leather-look-beret-hat-7815408)
+[Leather Look Beret Hat](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/leather-look-beret-hat-7815408)
 
-[Sequin Beret - Topshop](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/sequin-beret-7738268)
+[Sequin Beret](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/sequin-beret-7738268)
 
-[Double Layer Head Chain - Boohoo](https://nl.boohoo.com/diamante-double-layer-head-chain/DZZ18949.html)
+[Double Layer Head Chain](https://nl.boohoo.com/diamante-double-layer-head-chain/DZZ18949.html)
 
-[Twist Hair Knot Headband - Boohoo](https://nl.boohoo.com/jersey-twist-knot-headband/DZZ25027.html?color=394)
+[Twist Hair Knot Headband](https://nl.boohoo.com/jersey-twist-knot-headband/DZZ25027.html?color=394)
 
-[Metal Plate Waist Belt - Boohoo](https://nl.boohoo.com/textured-metal-plate-waist-belt/AZZ16035.html)
+[Metal Plate Waist Belt](https://nl.boohoo.com/textured-metal-plate-waist-belt/AZZ16035.html)
 
-[Tipped Western Belt - Boohoo](https://nl.boohoo.com/filigree-buckle-metal-tipped-western-belt/DZZ21534.html)
+[Tipped Western Belt](https://nl.boohoo.com/filigree-buckle-metal-tipped-western-belt/DZZ21534.html)
 
-[Over-the-knee Socks - Boohoo](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
+[Over-the-knee Socks](https://nl.boohoo.com/over-the-knee-socks-3-pack/DZZ76276.html)
 
-[Sparkly Glitter Scrunchie - Boohoo](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
+[Sparkly Glitter Scrunchie](https://nl.boohoo.com/sparkly-glitter-scrunchie/DZZ47984.html)
 
 {% include ad.html %}
