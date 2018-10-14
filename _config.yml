@@ -13,7 +13,7 @@ defaults:
 - scope:
     path: ''
   values:
-    image: "/uploads/styleguide_logo.jpg"
+    image: "/images/meta-icons/android-chrome-512x512.png"
     share:
     - facebook
     - twitter
@@ -24,7 +24,7 @@ defaults:
     layout: post
     has_comments: true
     cover_image: ''
-    image: "/uploads/styleguide_logo.jpg"
+    image: "/images/meta-icons/android-chrome-512x512.png"
 short_name: AHS Style
 has_comments: true
 theme_color: "#fafbfc"
@@ -38,7 +38,8 @@ disqus: https-americanhorrorstory-style
 description: This site is an inspiration style guide to some of the iconic American
   Horror Story characters. Read about ahs characters and their unique clothing style.
 getsimpleform_api_token: cfe536c569efa59f26c3e4966ea452fd
-image: "/uploads/styleguide_logo.jpg"
+image: "/images/meta-icons/android-chrome-512x512.png"
+cover_image: "/uploads/styleguide_logo.jpg"
 google_analytics: UA-90014538-16
 pygments: true
 dribbble_username: ahsstyle
