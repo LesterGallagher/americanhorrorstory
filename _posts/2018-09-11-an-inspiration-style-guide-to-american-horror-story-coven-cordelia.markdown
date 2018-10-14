@@ -81,5 +81,5 @@ Here are some links to clothing items:
 
 [Crinkle Layer Skirt](http://eu.topshop.com/en/tseu/product/clothing-485092/skirts-485114/crinkle-layer-skirt-by-lace-beads-7432422)
 
-{% include ad.html %}
 {% include share.html %}
+{% include ad.html %}
