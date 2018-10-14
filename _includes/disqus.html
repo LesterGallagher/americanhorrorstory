@@ -1,0 +1,14 @@
+{% if site.comments and page.comments and site.disqus != '' %}
+<script type="text/javascript">
+  var disqus_config = function () {
+    this.page.identifier = '{{ page.url | slugify }}';
+  };
+  var head = document.getElementsByTagName('head')[0];
+  var body = document.getElementsByTagName('body')[0];
+
+  console.log('head', head);
+  console.log('body', body);
+</script>
+<div id="disqus_thread"></div>
+<script type="text/javascript" async src="//{{ site.disqus }}.disqus.com/embed.js"></script>
+{% endif %}

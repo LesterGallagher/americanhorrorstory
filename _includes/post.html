@@ -4,7 +4,8 @@
   </div>
   <div id="post-info">
     <div id="cover-photo-container">
-      {% if page.cover_image != '' %}<img id="cover-photo" src="{{ page.cover_image | absolute_url }}" alt="Post cover">{% endif %}
+      {% if page.cover_image != '' %}<img id="cover-photo" src="{{ page.cover_image | absolute_url }}" alt="Post cover">{%
+      endif %}
     </div>
     <div id="info-container">
       <h1 id="title">{{ page.title }}</h1>
@@ -14,6 +15,7 @@
 
   <div class="post">
     {{ content }}
+    {% include disqus.html %}
   </div>
   <div class="colophon">
     <p>

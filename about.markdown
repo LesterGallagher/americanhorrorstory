@@ -15,4 +15,8 @@ Here's some information about me because apparently that's what you need to do o
 
 ![smiley.png](/uploads/smiley.png)
 
-{% include contact-form.html title="I'll get back to you shortly…" button="Contact me" %}
+{% include share.html %}
+
+{% include links.html %}
+
+{% include contact-form.html title="I'll get back to you shortly….." button="Contact me" %}

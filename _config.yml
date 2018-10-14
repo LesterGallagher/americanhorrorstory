@@ -1,35 +1,28 @@
 ---
 title: An inspiration style guide to American Horror Story
-timezone: Europe/Amsterdam
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-    permalink: uploads/:path
-defaults:
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    cover_image: ''
+comments: true
+share:
+  - facebook
+  - twitter
+  - google
+  - tumblr
+  - email
+  - pinterest
+  - linkedin
+  - reddit
+  - xing
+  - whatsapp
+  - hackernews
+  - vk
+  - telegram
+disqus: https-americanhorrorstory-style
 description: This site is an inspiration style guide to some of the iconic American
   Horror Story characters. On this website you can search for different American Horror
   Story characters and their unique clothing style.
 cover_image: "/uploads/styleguide_logo.png"
 getsimpleform_api_token: cfe536c569efa59f26c3e4966ea452fd
 image_src: "/uploads/styleguide_logo.jpg"
-markdown: kramdown
-url: https://americanhorrorstory.style
-enforce_ssl: americanhorrorstory.style
+google_analytics: UA-90014538-16
 pygments: true
 dribbble_username: 
 facebook_username: 
@@ -46,8 +39,6 @@ keywords: American Horror Story, Emma Roberts, Sarah Paulson, Taissa Farmiga, Li
   Rabe, Ryan Murphy, Evan Peters, American Horror Story Coven, American Horror Story
   Apocalypse, American Horror Story season 3, American Horror Story season 8, Billie
   Lourd
-exclude:
-- vendor
 rss: true
 facebook:
   app_id: 
@@ -61,13 +52,6 @@ webmaster_verifications:
   baidu: 
 twitter:
   username: 
-sass:
-  style: compressed
-  sass_dir: _sass
-plugins:
-- jekyll-feed
-- jekyll-sitemap
-- jekyll-seo-tag
 author: Sem Postma
 designer: Eva van der Weide
 lang: en
@@ -81,4 +65,43 @@ humanstxt_designer:
   from: Oosterhout, Noord Brabant, The Netherlands
   role: Designer
   email: ezaa@live.nl
-google_analytics: UA-90014538-16
+timezone: Europe/Amsterdam
+markdown: kramdown
+url: https://americanhorrorstory.style
+enforce_ssl: americanhorrorstory.style
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+    permalink: uploads/:path
+defaults:
+- scope:
+    path: ''
+  values:
+    share: 
+      - facebook
+      - twitter
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    comments: true
+    cover_image: ''
+plugins:
+- jekyll-feed
+- jekyll-sitemap
+- jekyll-seo-tag
+sass:
+  style: compressed
+  sass_dir: _sass
+exclude:
+- vendor
