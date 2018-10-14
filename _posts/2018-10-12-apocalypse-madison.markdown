@@ -17,7 +17,7 @@ At end of episode 3 of this season, Cordelia, Madison and Myrtle arrive at the u
 In episode 5 Madison can bes een wearing a high waisted black skirt, a crop top with cut-out sleeve detail and black lace gloves, her accessories include some simple pearl earring and her hair is styled “Madison-straight”. As for the shoes: black. high. heels. 
 
 ![outfit-ebcaf7.jpg](/uploads/outfit-ebcaf7.jpg)
-{% include ad.html %}
+
 
 Here are some items:
 
