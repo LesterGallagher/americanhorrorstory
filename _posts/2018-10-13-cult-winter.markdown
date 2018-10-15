@@ -8,23 +8,23 @@ As we all know, season 7 of American Horror Story was all about Kai Anderson (wh
 ![outfit1-f93f66.jpg](/uploads/outfit1-f93f66.jpg)
 {% include ad.html %}
 
-Winter is a 20-year old girl, with long silver hair, a porcelain doll face, and a modern gothic attire, consisting of black dresses with white collars, and Victorian-ish accessories. She is mostly seen in white blouses with ruffles or other details. She has different hairstyles throughout the season, sometimes she wears her hair in a high bun, a half of high ponytail or pigtails.
+Winter is a 20-year old girl, with long silver hair, a porcelain doll face, and a modern gothic attire, consisting of black dresses with white collars, and Victorian-ish accessories. She is mostly seen in white blouses with ruffles or other details. She has different hairstyles throughout the season, sometimes she wears her hair in a high bun, a ponytail or pigtails.
 
 ![outfit5.jpg](/uploads/outfit5.jpg)
 
-As I mentioned before, Winter wears a lot of white collars, she wears these with dresses or black tops.
+As I mentioned before, Winter styles her outfit with a white collor most of the time. 
 
 ![outfit3-dbbcd2.jpg](/uploads/outfit3-dbbcd2.jpg)
 
-The only real accessories we see Winter wear are big necklaces with old Victorian details and as for the colors, she mainly wears black and white, if she’s wearing color she is probably wearing dark red or dark blue. And as you can see Winter only wears long sleeves and she is almost always wearing clothing with a high neck/turtleneck.
+The only kind of accessories we see Winter wear are big necklaces with old Victorian details. As for the colors, she mainly wears black and white, if she’s wearing color she is probably wearing dark red or dark blue. And as you can see, Winter only wears long sleeves and she is almost always wearing clothing with a high neck/turtleneck.
 
 ![outfit2-a45df6.jpg](/uploads/outfit2-a45df6.jpg)
 ![outfit4.jpg](/uploads/outfit4.jpg)
 {% include ad.html %}
 
-**Here are some things to keep in mind when you're thinking about Winter’s style:**
+**Here are some things that characterize Winter's clothing style:**
 
-### * Long sleeves and high tops
+*Long sleeves and high tops*
 * Black and white with almost no other color
 * White Victorian blouses with ruffles
 * Big round necklaces
