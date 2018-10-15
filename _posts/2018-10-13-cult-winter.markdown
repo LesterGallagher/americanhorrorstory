@@ -24,7 +24,7 @@ The only real accessories we see Winter wear are big necklaces with old Victoria
 
 **Here are some things to keep in mind when you're thinking about Winter’s style:**
 
-* Long sleeves and high tops
+### * Long sleeves and high tops
 * Black and white with almost no other color
 * White Victorian blouses with ruffles
 * Big round necklaces
