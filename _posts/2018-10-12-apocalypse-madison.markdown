@@ -27,10 +27,10 @@ Here are some items:
 *[Corset Off The Shoulder dress](https://www.zaful.com/corset-off-the-shoulder-little-shirt-dress-p_549679.html)
 
 **Tops:**
-* [Lace Tank Top](https://www.zaful.com/cami-scalloped-lace-tank-top-p_283177.html)
+* [Lace Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=cami-scalloped-lace-tank-top-p_283177.html)
 
-* [See Through Crochet Blouse](https://www.zaful.com/see-through-crochet-patch-blouse-with-tank-top-p_506024.html)
+* [See Through Crochet Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=see-through-crochet-patch-blouse-with-tank-top-p_506024.html)
 
-* [Button Up Ruffle Tank Top](https://www.zaful.com/button-up-ruffle-tank-top-p_561635.html)
+* [Button Up Ruffle Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=button-up-ruffle-tank-top-p_561635.html)
 
 
