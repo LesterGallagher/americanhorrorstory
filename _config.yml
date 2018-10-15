@@ -108,3 +108,9 @@ sass:
   sass_dir: _sass
 exclude:
 - vendor
+longdescription: This site is an inspiration style guide to the characters of the
+  incredibly popular American Horror Story series. This site contains articles about
+  the characters and their clothing style. Each article describes the character's
+  clothing style, contains images and also gives you a list of links to clothing items
+  that are inspired by the character. This is a great way for people to easily access
+  your site and inspire them to browse through your clothing items.
