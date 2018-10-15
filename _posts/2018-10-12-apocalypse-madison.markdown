@@ -3,8 +3,9 @@ title: APOCALYPSE - Madison
 date: 2018-10-12 22:09:00 +02:00
 ---
 
-**Warning: spoilers**
-The witches are back! Who would’ve thought the witches from season 3 would make a comeback in season 8 of American Horror Story (named: Apocalypse). About a month ago Emma Roberts blessed us with an [Instagram](https://www.instagram.com/p/BnB53j2lMW4/?hl=en&taken-by=emmaroberts) post where we see her standing in her Madison Montgomery clothes which include big sunglasses and high boots.
+**warning: spoilers**
+
+The witches are back! Who would’ve thought the witches from season 3 would make a comeback in season 8 of American Horror Story (named: Apocalypse). About a month ago Emma Roberts blessed us with an [Instagram](https://www.instagram.com/p/BnB53j2lMW4/?hl=en&taken-by=emmaroberts) post where we see her standing in her Madison Montgomery clothes which include big sunglasses and high boots in front of what appears to be the Murder House of season 1. Ryan Murphy, one of the creators of the series told several news sites that this new season of American Horror Story would have huge crossovers from other previous seasons, which made us all really excited!
 
 ![emma-roberts-ahs.jpg](/uploads/emma-roberts-ahs.jpg)
 {% include ad.html %}
