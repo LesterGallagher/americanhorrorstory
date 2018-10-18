@@ -18,4 +18,6 @@ Here's some information about me because apparently that's what you need to do o
 
 {% include links.html %}
 
+[![follow us in feedly](http://s3.feedly.com/img/follows/feedly-follow-rectangle-flat-small_2x.png)](https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Famericanhorrorstory.style%2Ffeed)
+
 {% include contact-form.html title="I'll get back to you shortly….." button="Contact me" %}
