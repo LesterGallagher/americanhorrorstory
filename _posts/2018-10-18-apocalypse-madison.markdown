@@ -32,25 +32,25 @@ In the final scenes of the episode, Madison is wearing a short sleeveless black 
 
 ![outfit4-6971e6.jpg](/uploads/outfit4-6971e6.jpg)
 
-Here are items that are very similar to Madison's:
+Here are items that are very similar to Madison's (more will be added soon!):
 
 **Dresses:**
 
-*[Off Shoulder Ruffles Fitted Dress](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=off-shoulder-ruffles-fitted-dress-p_547529.html)
+[Off Shoulder Ruffles Fitted Dress](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=off-shoulder-ruffles-fitted-dress-p_547529.html)
 
-*[Corset Off The Shoulder dress](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=corset-off-the-shoulder-little-shirt-dress-p_549679.html)
+[Corset Off The Shoulder dress](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=corset-off-the-shoulder-little-shirt-dress-p_549679.html)
 
 **Tops:**
 
-* [Lace Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=cami-scalloped-lace-tank-top-p_283177.html)
+[Lace Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=cami-scalloped-lace-tank-top-p_283177.html)
 
-* [See Through Crochet Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=see-through-crochet-patch-blouse-with-tank-top-p_506024.html)
+[See Through Crochet Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=see-through-crochet-patch-blouse-with-tank-top-p_506024.html)
 
-* [Button Up Ruffle Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=button-up-ruffle-tank-top-p_561635.html)
+[Button Up Ruffle Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=button-up-ruffle-tank-top-p_561635.html)
 
 **Accessories:** 
 
-* [Star earrings](https://ds1.nl/c/?si=7630&li=1354896&wi=304271&ws=&dl=item%2FES541-Grote-Ster-Vormige-Oorbellen-Eenvoud-Handgemaakte-Koperdraad-Oorbel-voor-Vrouwen-Brincos-de-gota-Feminino-2018%2F32840056527.html)
-* 
+[Star earrings](https://ds1.nl/c/?si=7630&li=1354896&wi=304271&ws=&dl=item%2FES541-Grote-Ster-Vormige-Oorbellen-Eenvoud-Handgemaakte-Koperdraad-Oorbel-voor-Vrouwen-Brincos-de-gota-Feminino-2018%2F32840056527.html)
+
 
 
