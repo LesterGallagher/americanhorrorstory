@@ -48,4 +48,9 @@ Here are items that are very similar to Madison's:
 
 * [Button Up Ruffle Tank Top](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=button-up-ruffle-tank-top-p_561635.html)
 
+**Accessories:** 
+
+* [Star earrings](https://ds1.nl/c/?si=7630&li=1354896&wi=304271&ws=&dl=item%2FES541-Grote-Ster-Vormige-Oorbellen-Eenvoud-Handgemaakte-Koperdraad-Oorbel-voor-Vrouwen-Brincos-de-gota-Feminino-2018%2F32840056527.html)
+* 
+
 
