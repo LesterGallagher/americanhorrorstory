@@ -35,8 +35,16 @@ The only kind of accessories we see Winter wear are big necklaces with old Victo
 
 **Tops:**
 
+[Frilled Tie Neck Lace Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=frilled-tie-neck-lace-blouse-p_576897.html)
+
 [Ruffle Turtleneck Sweater](https://www.urbanoutfitters.com/shop/uo-faye-ruffle-turtleneck-sweater?category=womens-tops&color=010&quantity=1&type=REGULAR)
 
-[Ruffle Collar Button-Down Top](https://www.urbanoutfitters.com/shop/uo-madelyn-ruffle-collar-button-down-top?category=SEARCHRESULTS&color=010)
+[Ruffles Textured Shirt](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=ruffles-textured-shirt-p_552072.html)
 
-[Square-Neck Top](https://www.urbanoutfitters.com/shop/the-east-order-elle-smocked-square-neck-top?category=womens-tops&color=010)
+[Eyelet Bow Tie Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=zaful-eyelet-bow-tie-blouse-p_575355.html)
+
+[Split Sleeve Shirt](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=white-loose-cut-out-turn-down-collar-long-sleeve-shirt-p_174064.html)
+
+**Dresses:**
+
+[Plaid Bow Shirt Dress](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=plaid-bow-shirt-dress-p_587183.html)
