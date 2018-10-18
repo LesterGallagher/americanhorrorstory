@@ -11,4 +11,5 @@
   {% if site.github_username%}<li><a title="github" aria-label="github" href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><span class="socialmedianame">Github</span> <span class="username">{{ site.github_username| escape }}</span></a></li>{% endif %}
   {% if site.youtube_username%}<li><a title="youtube" aria-label="youtube" href="https://youtube.com/{{ site.youtube_username| cgi_escape | escape }}"><span class="socialmedianame">Youtube</span> <span class="username">{{ site.youtube_username| escape }}</span></a></li>{% endif %}
   {% if site.rss %}<li><a title="rss" aria-label="rss" href="{{ "feed.xml" | absolute_url }}">RSS</a></li>{% endif %}
+  {% if site.rss %}<li><a title="follow us in feedly" target="blank" aria-label="feedly" href="https://feedly.com/i/subscription/feed%2F{{ 'feed.xml' | absolute_url | cgi_escape | escape }}">Feedly</a></li>{% endif %}
 </ul>
