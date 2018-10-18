@@ -78,7 +78,7 @@ Here are some links to clothing items:
 
 **Hats**
 
-[Round Felt Hat](http://eu.topshop.com/en/tseu/product/bags-accessories-1702217/hats-485128/petra-round-felt-hat-7311372)
+[Round Felt Hat](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=solid-color-felt-floppy-hat-p_199387.html)
 
 [Ribbon Trim Floppy Hat](https://nl.boohoo.com/maisy-ribbon-trim-floppy-hat/DZZ19316.html)
 
