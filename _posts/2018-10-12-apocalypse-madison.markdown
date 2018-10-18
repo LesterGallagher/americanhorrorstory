@@ -28,11 +28,11 @@ Later in the episode we see her wearing her sunglasses, a halter top with lace d
 
 ![outfit2-919223.jpg](/uploads/outfit2-919223.jpg)
 
-In the final scenes of the episode, Madison is wearing a short sleeveless black dress with ruffles. She wears a small black headband and a chocker as assories. She wears the black out-out heels with this outfit again.
+In the final scenes of the episode, Madison is wearing a short sleeveless black dress with ruffles. She wears a small black headband and a choker as accessories She wears the black out-out heels with this outfit again.
 
 ![outfit4-6971e6.jpg](/uploads/outfit4-6971e6.jpg)
 
-Here are some items:
+Here are items that are very similar to Madison's:
 
 **Dresses:**
 
