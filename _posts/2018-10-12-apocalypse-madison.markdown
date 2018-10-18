@@ -20,6 +20,18 @@ In episode 5 Madison is wearing a high-waisted black skirt, a crop top with cut-
 
 ![outfit-ebcaf7.jpg](/uploads/outfit-ebcaf7.jpg)
 
+In episode 6, Madison and Behold return to the Murder House from season 1 which was really cool to see. In this episode we first see Madison wear black heels with cut-out detail and black leather jeans. She is also wearing a long sleeve knitted top with a golden belt and big star earrings.
+
+![outfit3-ab1c63.jpg](/uploads/outfit3-ab1c63.jpg)
+
+Later in the episode we see her wearing her sunglasses, a halter top with lace detail, black leather shorts and black boots.
+
+![outfit2-919223.jpg](/uploads/outfit2-919223.jpg)
+
+In the final scenes of the episode, Madison is wearing a short sleeveless black dress with ruffles. She wears a small black headband and a chocker as assories. She wears the black out-out heels with this outfit again.
+
+![outfit4-6971e6.jpg](/uploads/outfit4-6971e6.jpg)
+
 Here are some items:
 
 **Dresses:**
