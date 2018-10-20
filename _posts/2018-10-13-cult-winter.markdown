@@ -12,7 +12,7 @@ Winter is a 20-year old girl, with long silver hair, a porcelain doll face, and 
 
 ![outfit5.jpg](/uploads/outfit5.jpg)
 
-As I mentioned before, Winter styles her outfit with a white collor most of the time. 
+As I mentioned before, Winter styles her outfit with a white collar most of the time.
 
 ![outfit3-dbbcd2.jpg](/uploads/outfit3-dbbcd2.jpg)
 
@@ -25,10 +25,15 @@ The only kind of accessories we see Winter wear are big necklaces with old Victo
 **Here are some things that characterize Winter's clothing style:**
 
 *Long sleeves and high tops*
+
 * Black and white with almost no other color
+
 * White Victorian blouses with ruffles
+
 * Big round necklaces
+
 * Different hair styles
+
 * White collars
 
 **Here are some items:**
