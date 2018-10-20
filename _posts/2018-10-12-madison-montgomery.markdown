@@ -12,10 +12,9 @@ Here is some background information on Madison, in case you kinda forgot season 
 
 As we all know is Emma Roberts, with her thin figure, long legs and blonde hair, made for the role of being a mean girl. And that’s why you’ll see her wear revealing clothes that show off her figure. If there’s one thing you need to know about Madison’s style is that they accentuate her legs a lot with high shoes or knee socks. You’ll see a lot of outfits were she’s wearing knee socks or high shoes with a skirt or shorts.
 
-
 **Party Dress-Madison**
 
-At the beginning of the show we see Madison wear tiny dresses with heels, preferably glitter heels. We can see that she has her party-dresses figured out and is ready to go. She keeps it simple with these dresses, she mostly combines them with small bracelets or earrings and she keeps her hair simple and straight.
+At the beginning of the show, we see Madison wear tiny dresses with heels, preferably glitter heels. We can see that she has her party-dresses figured out and is ready to go. She keeps it simple with these dresses, she mostly combines them with small bracelets or earrings and she keeps her hair simple and straight.
 
 ![Blue Dress-51b4db.jpg](/uploads/Blue%20Dress-51b4db.jpg)
 
@@ -24,8 +23,7 @@ At the beginning of the show we see Madison wear tiny dresses with heels, prefer
 
 **"Witchy"-Madison**
 
-In the third season of American Horror Story we also see Madison wear a lot of black and other dark colors. The whole witch cast of this season also wears a lot of black. So when \[spoiler\] Madison dies and gets brought back to life one of the first things we see her wear is a black loose fitted dress with a chocker. And we can kind of sense that her Madison changed into a much darker character after being brought back to life. The accessories she wears with these long ‘witchy’ dresses are chockers because \[spoiler\] she got her throat cut which resulted in her death and that left a scar around her neck.
-
+In the third season of American Horror Story, we also see Madison wear a lot of black and dark colors. This is the case for the whole cast of this season. So when \[spoiler\] Madison dies and gets brought back to life one of the first things we see her wear is a black loose-fitting dress with a chocker. And we can kind of sense that her Madison changed into a much darker character after being brought back to life. The accessories she wears with these long ‘witchy’ dresses are chockers because \[spoiler\] she got her throat cut which resulted in her death and that left a scar around her neck.
 
 ![madison black-44e073.jpg](/uploads/madison%20black-44e073.jpg)
 
@@ -45,10 +43,15 @@ The whole witch cast of season three can be seen wearing a lot of black/dark col
 If you want to recreate some of Madison Montgomery’s style then you can keep these things in mind:
 
 * Try to keep the skirts short
+
 * Keep the jewelry simple, don't over do it
+
 * Try to show off your legs
+
 * If you want to wear a coat, make sure it's a fur coat
+
 * Hair accessories are important.
+
 * And most importantly: put on some high shoes or socks
 
 Here are some links to clothing items:
