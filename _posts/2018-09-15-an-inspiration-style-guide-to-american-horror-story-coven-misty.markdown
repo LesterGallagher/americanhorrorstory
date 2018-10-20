@@ -11,7 +11,8 @@ Misty Day is a witch with extraordinary gifts who lived alone in a swamp before 
 
 **Style**
 
-Misty Day’s clothing style will remain the same during the show. It’s very eccentric with a lot of accessories and details. If you can picture cordelia’s look for example, you’ll see that misty’s is exactly the opposite. Misty wears long drapey dresses with scarfs and fringes and a lot of rings and bracelets. She also is seen wearing waistbands corsets in some looks.
+Misty Day’s clothing style will remain the same during the show. It’s very eccentric with a lot of accessories and details. If you can picture [Cordelia's](/2018/09/11/an-inspiration-style-guide-to-american-horror-story-coven-cordelia.html) look, for example, you’ll see that misty’s is exactly the opposite. Misty wears long drapey dresses with scarfs and fringes and a lot of rings and bracelets. She also is seen wearing waistbands corsets in some looks.
+
 ![Misty_outfit_3.jpg](/uploads/Misty_outfit_3.jpg)
 ![mistyddd.jpg](/uploads/mistyddd.jpg)
 {% include ad.html %}
@@ -21,7 +22,7 @@ Here are some links to clothing items:
 
 [Sleeve Wrap Front Top](https://nl.boohoo.com/petite-extreme-sleeve-wrap-front-top/PZZ84243.html?color=105)
 
-[Frill Hem Dress](https://www.monki.com/en_eur/clothing/dresses/product.frill-hem-dress-sports-car-red.0689860001.html) 
+[Frill Hem Dress](https://www.monki.com/en_eur/clothing/dresses/product.frill-hem-dress-sports-car-red.0689860001.html)
 
 [Sleeve  Button Maxi Dress](https://nl.boohoo.com/-lace-waist-sleeve-button-maxi-dress/DZZ86898.html)
 
