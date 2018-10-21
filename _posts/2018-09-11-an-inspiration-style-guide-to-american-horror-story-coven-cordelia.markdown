@@ -50,9 +50,9 @@ Here are some links to clothing items:
 
 **Tops**
 
-[Scoop Neck Top](https://www.urbanoutfitters.com/shop/uo-dara-open-scoop-neck-top)
+[Eyelet Bow Tie Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=zaful-eyelet-bow-tie-blouse-p_575359.html) 
 
-[Floral Mesh Long Sleeve Top](https://www.urbanoutfitters.com/shop/uo-floral-mesh-long-sleeve-top?category=womens-tops&color=009)
+[Button Up Blouse](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=v-neck-button-up-blouse-p_557414.html)
 
 [Mesh Kimono](https://nl.boohoo.com/mesh-kimono-with-crochet-trim/DZZ19028.html?color=105)
 
@@ -66,9 +66,9 @@ Here are some links to clothing items:
 
 **Dresses**
 
-[Maxi Dress](http://eu.topshop.com/en/tseu/product/clothing-485092/dresses-485107/leopard-print-maxi-dress-by-glamorous-7908154)
+[Floral Asymmetrical Wrap Maxi Dress](https://lt45.net/c/?si=12810&li=1561444&wi=304271&ws=&dl=floral-asymmetrical-wrap-maxi-dress-p_306775.html)
 
-[Bodycon Dress](https://nl.boohoo.com/tall-off-the-shoulder-wrap-midi-bodycon-dress/TZZ97882.html?color=105)
+[Flower Print Maxi Dress](https://click.linksynergy.com/deeplink?id=gX56itLGvIE&mid=43446&u1=sp&murl=https%3A%2F%2Fwww.liligal.com%2Fflower-print-black-long-sleeve-maxi-dress-g208377.html)
 
 [Midi Dress](https://nl.boohoo.com/boutique-full-skirted-prom-midi-dress/AZZ03564.html?color=105)
 
