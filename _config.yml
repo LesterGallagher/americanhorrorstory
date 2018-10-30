@@ -22,6 +22,7 @@ defaults:
     type: posts
   values:
     layout: post
+    author: Eva van der Weide
     has_comments: true
     cover_image: ''
     image: "/images/meta-icons/android-chrome-512x512.png"
